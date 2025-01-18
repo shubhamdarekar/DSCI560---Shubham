@@ -1,16 +1,27 @@
 import requests
 import bs4
+from selenium import webdriver
+from time import sleep
 
 url = "https://www.cnbc.com/world/?region=world"
 
-response = requests.get(url)
+def scrape_using_selenium(url):
+    options = webdriver.ChromeOptions()
+    options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
 
-if response.status_code == 200:
-	soup = bs4.BeautifulSoup(response.text, 'html.parser')
+    driver = webdriver.Chrome(options=options)
+    driver.get(url)
+    sleep(5)
 
-	with open("data/raw_data/web_data.html", 'w', encoding='utf-8') as file:
-		file.write(soup.prettify())
+    soup = bs4.BeautifulSoup(driver.page_source, 'html.parser')
+    
+    with open("data/raw_data/web_data.html", 'w', encoding='utf-8') as file:
+        file.write(soup.prettify())
 
-	with open("data/raw_data/web_data.html", 'r', encoding='utf-8') as file:
-		for _ in range(10):
-			print(file.readline().strip())
+    driver.quit()
+
+    return soup
+
+print(scrape_using_selenium(url))
