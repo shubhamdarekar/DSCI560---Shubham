@@ -40,6 +40,10 @@ Lab 1
 2. Install python and the requirements
 3. Run the files in script folder
 
+## Code details
+1. Scrape Data => Using a headless Chromium browser using Selenium, it navigates to the news website waits for 5 seconds to let the website load and parses the HTML content using Beautiful Soup. The code writes the data in raw data folder
+2. Filter Data => It reads the data from previously written html file. We parse the data from BeautifulSoup and uses three function, extract_market_data to get market data into dictionary, extract_latest_news to get the news data in dictionary and convert_to_csv to convert and write to csv files.
+
 ## References
 
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
