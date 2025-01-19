@@ -16,7 +16,7 @@ def scrape_using_selenium(url):
     sleep(5)
 
     soup = bs4.BeautifulSoup(driver.page_source, 'html.parser')
-    
+
     with open("data/raw_data/web_data.html", 'w', encoding='utf-8') as file:
         file.write(soup.prettify())
 
@@ -24,4 +24,13 @@ def scrape_using_selenium(url):
 
     return soup
 
-print(scrape_using_selenium(url))
+
+scrape_using_selenium(url)
+
+with open("data/raw_data/web_data.html", 'r', encoding='utf-8') as file:
+        for _ in range(10):
+            line = file.readline()
+            if line:
+                print(line.strip())
+            else:
+                break
