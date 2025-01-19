@@ -15,12 +15,12 @@ def extract_market_data(soup):
     market_cards = soup.select('.MarketCard-container')
     for card in market_cards:
         card_details = {}
-        
+
         card_details['marketCard_symbol'] = card.select_one('.MarketCard-symbol').get_text().strip()
         card_details['marketCard_stockPosition'] = card.select_one('.MarketCard-stockPosition').get_text().strip()
         card_details['marketCard-changePct'] = card.select_one('.MarketCard-changesPct').get_text().strip()
         market_data.append(card_details)
-        
+
     print("Market data extraction complete.")
     return market_data
 
@@ -31,12 +31,12 @@ def extract_latest_news(soup):
     news_cards = soup.select('.LatestNews-headlineWrapper')
     for card in news_cards:
         card_details = {}
-        
+
         card_details['title'] = card.select_one('.LatestNews-headline').get_text().strip()
         card_details['link'] = card.select_one('.LatestNews-headline')['href']
         card_details['LatestNews-timestamp'] = card.select_one('.LatestNews-timestamp').get_text().strip()
         news_data.append(card_details)
-    
+
     print("Latest news extraction complete.")
     return news_data
 
