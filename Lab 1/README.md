@@ -7,11 +7,10 @@ This is the first assignment of the course that focuses on helping you get your 
 ## Technologies Used
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![VMWare Workstation Pro](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
-[![Ubuntu](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://ubuntu.com/download)
-[![Beautiful Soup 4](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://beautiful-soup-4.readthedocs.io/en/latest/)
-[![Selenium](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.selenium.dev/)
-
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VMware Workstation Pro](https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-004B87?style=for-the-badge&logo=python&logoColor=white)
 ```
 📦 
 Lab 1
