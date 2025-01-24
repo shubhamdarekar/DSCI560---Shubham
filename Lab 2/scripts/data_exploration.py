@@ -39,7 +39,7 @@ def get_data_from_pdf():
     df = get_data_from_text("LA_Tourist_Itinerary.txt")
 
     # Saving the DataFrame to a CSV file
-    save_to_csv(df, "Lab 2\\processed_data\\LA_Tourist_Itinerary.csv")
+    save_to_csv(df, "Lab 2/processed_data/LA_Tourist_Itinerary.csv")
 
     # Printing the first few records of the DataFrame
     print("\nFirst few records:")

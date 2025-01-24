@@ -5,7 +5,7 @@ import requests
 ## Task: Extract structured data from a PDF file and save it to a CSV file
 def get_raw_data_from_url(url,file_name):
     response = requests.get(url)
-    file_name = "Lab 2\\raw_data\\" + file_name
+    file_name = "Lab 2/raw_data/" + file_name
 
     if response.status_code == 200:
         with open(file_name, "wb") as file:
@@ -16,17 +16,17 @@ def get_raw_data_from_url(url,file_name):
         
 def extract_text_from_pdf(pdf_file,text_file_name):
     extracted_text = ""
-    with pdfplumber.open("Lab 2\\raw_data\\"+pdf_file) as pdf:
+    with pdfplumber.open("Lab 2/raw_data/"+pdf_file) as pdf:
         for page in pdf.pages:
             extracted_text += page.extract_text()
 
-    text_file = "Lab 2\\raw_data\\" + text_file_name
+    text_file = "Lab 2/raw_data/" + text_file_name
     with open(text_file, "w", encoding="utf-8") as file:
         file.write(extracted_text)
     print(f"Text extracted and saved to {text_file}")
     
 def get_data_from_text(text_file):
-    text_file = "Lab 2\\raw_data\\" + text_file
+    text_file = "Lab 2/raw_data/" + text_file
     
     with open(text_file, "r", encoding="utf-8") as file:
         extracted_text = file.read()
