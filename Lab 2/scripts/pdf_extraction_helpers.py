@@ -2,7 +2,7 @@ import pandas as pd
 import pdfplumber
 import requests
 
-
+## Task: Extract structured data from a PDF file and save it to a CSV file
 def get_raw_data_from_url(url,file_name):
     response = requests.get(url)
     file_name = "Lab 2\\raw_data\\" + file_name
@@ -53,34 +53,3 @@ def get_data_from_text(text_file):
 def save_to_csv(df, csv_file):
     df.to_csv(csv_file, index=False)
     print(f"Data saved to CSV file: {csv_file}")
-    
-    
-
-if __name__ == "__main__":
-    # Define the PDF file name and URL
-    pdf_file = "LA_Tourist_Itinerary.pdf"
-    url = "https://latourist.com/documents/LA_Tourist_Itinerary.pdf"
-
-    # Download the raw PDF file from the URL
-    get_raw_data_from_url(url, pdf_file)
-
-    # Extract text from the downloaded PDF file and save it to a text file
-    extract_text_from_pdf(pdf_file, "LA_Tourist_Itinerary.txt")
-
-    # Extract structured data from the text file and create a DataFrame
-    df = get_data_from_text("LA_Tourist_Itinerary.txt")
-
-    # Save the DataFrame to a CSV file
-    save_to_csv(df, "Lab 2\\processed_data\\LA_Tourist_Itinerary.csv")
-
-    # Print the first few records of the DataFrame
-    print("\nFirst few records:")
-    print(df.head())
-
-    # Print the dimensions of the DataFrame
-    print("\nDataset dimensions:")
-    print(df.shape)
-
-    # Check for missing data in the DataFrame
-    print("\nMissing data check:")
-    print(df.isnull().sum())
