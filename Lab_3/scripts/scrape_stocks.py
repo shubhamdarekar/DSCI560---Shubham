@@ -55,6 +55,27 @@ def porfolio_select(user_id):
     choice = input("Enter your choice: ")
     
     return portfolios[int(choice) - 1]
+
+def stock_add(portfolio_id):
+    ticker = input("Enter ticker name: ")
+    valid = helper.check_ticker(ticker)
+    
+    if not valid:
+        return None
+    
+    helper.add_ticker(ticker, portfolio_id)
+    
+    return True
+
+def stock_delete(portfolio_id,stock_list):
+    input_id = int(input("Enter stock number to delete: "))
+    
+    stock_id = stock_list[input_id-1][1]
+    helper.delete_ticker_from_portfolio(portfolio_id,stock_id)
+    
+    return True
+
+
     
     
 
@@ -76,23 +97,29 @@ if __name__ == "__main__":
                 
             print("Stocks in Portfolio " + selected_portfolio[2])
             for i, stocks in enumerate(stocks_list):
-                print(f"{i+1}. {stocks_list[2]}")
+                print(f"{i+1}. {stocks_list[i][3]}")
+                
+            print("\n\n Operations")
             
             
             print("1. Add Stock")
             print("2. Delete Stocks")
-            print("3. Logout")
+            print("3. Go to previous menu")
             
             choice = input("Enter your choice: ")
             
             if choice == "1":
-                print("Add Stock")
+                if stock_add(selected_portfolio[0]):
+                    continue
             elif choice == "2":
-                print("List Stocks")
+                if stock_delete(selected_portfolio[0],stocks_list):
+                    continue
             elif choice == "3":
                 selected_portfolio = None
+                continue
             else:
                 print("Invalid choice")
+                continue
         
         if logged_in_user:
             print("1. Create Portfolio")
@@ -103,14 +130,18 @@ if __name__ == "__main__":
             
             if choice == "1":
                 portfolio_create(logged_in_user[0])
+                continue
             elif choice == "2":
                 selected_portfolio = porfolio_select(logged_in_user[0])
+                continue
                 if selected_portfolio == None:
                     continue
             elif choice == "3":
                 logged_in_user = None
+                continue
             else:
                 print("Invalid choice")
+                continue
             
             
             
