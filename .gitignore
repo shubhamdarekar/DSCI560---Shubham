@@ -1,5 +1,7 @@
 */venv/*
+*/.venv/*
 */.vscode/*
 Pipfile
 Pipfile.lock
 **/__pycache__/*
+*/.config*

@@ -38,7 +38,7 @@ def scrape_cards():
 
    # Save data to a CSV file
    df = pd.DataFrame(data)
-   csv_path = "Lab 2\\processed_data\\itineraries_cards.csv"
+   csv_path = "Lab 2/processed_data/itineraries_cards.csv"
    df.to_csv(csv_path, index=False, encoding='utf-8')
    print("Data has been saved to itineraries_cards.csv!")
    return csv_path
