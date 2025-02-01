@@ -11,7 +11,7 @@ For websites, extract the text using web scraping libraries.
 For PDF documents, extract text using the any PDF to text libraries.   
 
 ## Video Demo Link
-  TBD
+  [Youtube Link](https://youtu.be/THfgw0Jv62c)
 
 ## Technologies Used
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
