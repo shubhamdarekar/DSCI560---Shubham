@@ -98,7 +98,7 @@ def save_stock_info(ticker):
     
     
     
-def collect_stock_history(ticker,period='1y',interval='1d'):
+def collect_stock_history_func(ticker,period='1y',interval='1d'):
     save_stock_info(ticker)
     
     connection = create_connection()
@@ -127,6 +127,8 @@ def collect_stock_history(ticker,period='1y',interval='1d'):
     
     print("Saved_history of Stocks: ",ticker," Period: ",period," Interval: ",interval)
     
+    return history
+    
     
 def save_table_to_csv(table_name,filename):
     connection = create_connection()
@@ -148,10 +150,10 @@ def save_table_to_csv(table_name,filename):
     
     
 if __name__ == "__main__":
-    # initialize_database()
+    initialize_database()
     
-    # for stock in stocks_to_collect:
-    #     collect_stock_history(stock['ticker'], stock['period'], stock['interval'])
+    for stock in stocks_to_collect:
+        collect_stock_history_func(stock['ticker'], stock['period'], stock['interval'])
         
     save_table_to_csv("Stocks_analysis","Lab_3/raw_data/Stocks_analysis")
     save_table_to_csv("stock_history","Lab_3/raw_data/stock_history")
