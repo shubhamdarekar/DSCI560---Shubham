@@ -1,5 +1,6 @@
 from mysql_helper import create_connection, commit_and_close
 import initialize_helper as helper
+import collect_stock_history as collect
 
 def user_create():
     input_name = input("Enter your username: ")
@@ -75,6 +76,36 @@ def stock_delete(portfolio_id,stock_list):
     
     return True
 
+def stock_list_with_interval(user_id, portfolio_id, period='1y', interval='1d'):
+    
+    period = input("Enter period (1d, 1mo, 1y, 5y): ")
+    interval = input("Enter interval (1d, 1wk, 1mo): ")
+
+    
+    
+    stocks_list = helper.list_stocks(user_id,portfolio_id)
+    
+    if not stocks_list:
+        print("No stocks in portfolio")
+        return
+    
+    stocks_to_collect = []
+    
+    for i, stocks in enumerate(stocks_list):
+        stocks_to_collect.append({'ticker': stocks[4], 'period': period, 'interval': interval})
+      
+    print("\n\n")  
+    for stock in stocks_to_collect:
+        history = collect.collect_stock_history_func(stock['ticker'], stock['period'], stock['interval'])
+        print("Stock: ",stock['ticker'], " Period: ",stock['period'], " Interval: ",stock['interval'],"History saved in db, showing first 5 rows")
+        
+        print(history.head())
+        print("\n\n")
+        
+    
+    
+    return stocks_list
+
 
     
     
@@ -97,14 +128,15 @@ if __name__ == "__main__":
                 
             print("Stocks in Portfolio " + selected_portfolio[2])
             for i, stocks in enumerate(stocks_list):
-                print(f"{i+1}. {stocks_list[i][3]}")
+                print(f"{i+1}. {stocks[3]}")
                 
             print("\n\n Operations")
             
             
             print("1. Add Stock")
             print("2. Delete Stocks")
-            print("3. Go to previous menu")
+            print("3. Show/Save Stock History")
+            print("4. Go to previous menu")
             
             choice = input("Enter your choice: ")
             
@@ -115,6 +147,9 @@ if __name__ == "__main__":
                 if stock_delete(selected_portfolio[0],stocks_list):
                     continue
             elif choice == "3":
+                stock_list_with_interval(logged_in_user[0], selected_portfolio[0])
+                continue
+            elif choice == "4":
                 selected_portfolio = None
                 continue
             else:
