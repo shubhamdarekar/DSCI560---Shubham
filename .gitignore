@@ -1,4 +1,12 @@
-*/venv/*
+*venv/*
+*.venv*
+*/.vscode/*
+*/.idea/*
+*/.git/*
+*/.gitignore/*
+*/.gitattributes/*
+*/.gitmodules/*
+*/.gitkeep
 */.venv/*
 */.vscode/*
 Pipfile
