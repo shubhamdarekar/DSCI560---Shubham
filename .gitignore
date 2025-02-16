@@ -13,3 +13,5 @@ Pipfile
 Pipfile.lock
 **/__pycache__/*
 */.config*
+Lab_5/.env
+*.npy
