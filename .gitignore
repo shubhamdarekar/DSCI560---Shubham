@@ -13,5 +13,6 @@ Pipfile
 Pipfile.lock
 **/__pycache__/*
 */.config*
-Lab_5/.env
 *.npy
+Lab_6/raw_pdf_data/*
+*.env
