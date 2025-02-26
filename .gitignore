@@ -15,3 +15,6 @@ Pipfile.lock
 */.config*
 Lab_5/.env
 *.npy
+*/.ipynb_checkpoints/*
+*.swp
+*/node_modules/*
