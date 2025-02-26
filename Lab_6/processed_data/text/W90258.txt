@@ -1,0 +1,5725 @@
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+
+OIL AND GAS DIVISION Well File No.
+600 EAST BOULEVARD DEPT 405 Receiver , 90258
+BISMARCK, ND 58505-0840
+
+SFN 5749 (09-2006) APR 2 C 2019
+
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. .
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. ND Oil &
+Drilling Prognosis Spill Report
+
+{] Notice of Intent Approximate Start Date
+{] Report of Work Done Date Work Completed
+
+[Notice of Intent to Begin a Workover Project that may Qualify
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03.
+
+Approximate Start Date
+
+Well Name and Number
+Atlanta #1 SWD
+Footages Qtr-Qtr Section Township Range
+
+260 F NL 432 F W LL; NWNW 6 153 N 101 W
+Field Pool County
+Baker Dakota Williams
+
+DETAILS OF WORK
+Please see the attached as-builts for the above-referenced well.
+
+Redrilling or Repair Shooting
+
+Casing or Liner Acidizing
+
+Plug Well Fracture Treatment
+Supplemental History Change Production Method
+Temporarily Abandon Reclamation
+
+Other As-Built Facilities
+
+24-HOUR PRODUCTION RATE
+
+Oil Bbls {Oil Bbls
+
+Water Bblis |Water Bblis
+Gas MCF |Gas MCF
+
+Company Telephone Number
+
+Continental Resources, Inc. FOR STATE USE ONLY
+Address
+
+P.O. Box 268870
+
+City State Zip Code
+Oklahoma City OK 73126
+
+Approved
+
+Printed Name
+Regulatony
+Regulatory’Compliance Specialist April 30, 2019
+
+Email Address
+terry.olson@cir.com
+
+Title ~~ JARED THUNE
+
+Engineering Te
+
+
+PUMPHOUSE - FACING NORTHWEST
+
+DRAWN BY: KH
+DATE PRINTED: 4-29-19
+
+EAST END OF TANKS
+
+REVISION DATE DESIGNED BY: JP
+
+TANKS - FACING WEST
+
+er and.s
+oe eis
+
+ek E
+Sree I SSE ot
+
+SHEET DESCRIPTION: SITE PHOTOS
+PROJECT NAME: ATLANTA 1 SWD
+
+PROJECT NO.: N19-B10
+
+Continental
+
+RESOURCES
+
+PH: 701.523.3340
+
+©rOSZ
+
+109 S. Maln, Box 357
+
+CONTINENTAL RESOURCES INC.
+ATLANTA 1 SWD
+
+ENGINEERING, INC.
+ARCHITECTURE ENGINEERING SURVENING
+
+B
+
+SW1/4, SECTION 31, T154N, R101W
+WILLIAMS COUNTY, NORTH DAKOTA
+
+4
+
+
+SITE - FACING EAST SITE - FACING SOUTH ae SITE - FACING SOUTHWEST
+
+DRAWN BY: KH
+DATE PRINTED: 4-29-19
+
+a
+gs
+st
+[oy
+fay
+w
+Zz
+9
+a
+Ww
+a
+w
+<
+fa)
+F4
+9
+i
+>
+a
+iv
+
+SHEET DESCRIPTION: SITE PHOTOS
+PROJECT NAME: ATLANTA 1 SWD
+
+PROJECT NO.: N19-B10
+
+57
+
+Continental
+
+RESOURCES
+
+CONTINENTAL RESOURCES INC.
+ATLANTA 1 SWD
+
+Bowman, ND 58623
+
+109S, Maln, Box
+PH: 701.523.3340
+ENGINEERING, INC.
+
+ARCHITECTURE ENGINEERING SURVEYING
+
+SW1/4, SECTION 31, T154N, R101W
+WILLIAMS COUNTY, NORTH DAKOTA
+
+
+I
+
+WELL
+
+PROPANE TANK
+CHEMICAL TANK
+PUMP
+
+SUMP
+
+LOAD OUT
+
+FIRE SPOUT
+ETRAN
+
+VALVE
+
+RADIO TOWER
+LIGHT POLE
+FENCE LINE
+ELECTRICAL LINE
+WATER LINE
+
+OIL LINE
+CONTAINMENT
+CONCRETE
+
+nou
+
+DESIGNED BY: JP
+DRAWN BY: KH
+DATE PRINTED: 4-29-19
+
+Hxee peaaal(O
+u
+
+STORM DRAIN
+
+ica
+a
+
+H a
+
+0 ——$__
+194 1940 ———__— 4940
+
+i] a
+
+a
+ae
+res
+AN
+-
+
+@)
+Ass
+Sf ELECTRICAL PANEL
+Tr
+
+WASHOU
+
+SHEET DESCRIPTION: SITE ASBUILT
+PROJECT NAME: ATLANTA 1 SWD
+
+PROJECT NO.: N19-B10
+
+BERM CONSTRUCTION MATERIAL = DIRT TANK PURPOSES: TANK DIKE: Continental
+
+LOCATION WILL NOT HOLD FLUIDS, HAS A STORM DRAIN SYSTEM RESOURCES
+TANK CONTAINMENT = 22,22? CU.FT. WATER STORAGE TANK - USED HEIGHT -
+
+AS SURGE TANKS FOR THE WATER TANK CONTAINMENT = 5° ; z 5 7
+TANK B =3 TANKS - 15.5' DIA. - 24' TALL = 750 BBL / TANK INJECTION PUMPS AND FOR WATER CONSTRUCTION MATERIAL = STEEL
+POLISHING (SECONDARY BASE CONSTRUCTION MATERIAL = LINER Scale 1" = 100'
+SEPARATION OF SKIM OIL) TANK CONTAINMENT VOLUME = ???,2?? BBL CONTINENTAL RESOURCES INC,
+ATLANTA 1 SWD
+
+109 S. Maln, Box 357
+
+Bowman, ND 58623
+
+PH: 701.523.3340
+ENGINEERING, INC.
+
+ARCHITECTURE ENGINEERING SURVEYING
+
+SW1/4, SECTION 31, T154N, R101W
+* MAIN CONTAINMENT IS UNDERLAIN WITH SYNTHETIC LINERS | WILLIAMS COUNTY, NORTH DAKOTA
+
+({B
+
+
+Well Integrity Report - Form 19 Summary
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+
+OIL AND GAS DIVISION
+
+600 EAST BOULEVARD DEPT 405
+
+BISMARCK, ND 58505-0840
+
+Well FileNo. [902905
+UIC No. {W0365S0839D
+
+Test Date: 9/12/2018 10:23:36 AM Contractor Performing Pressure Test: Rugged Energy services
+
+Operator: CONTINENTAL RESOURCES, INC. Telephone : . [4052349000
+Address: [PO BOX 268870 _ ~ City: [OKLAHOMA CITY _ State: [OK Zip Code:
+
+Well Name: [ATLANTA #1 ‘SWD Field: [BAKER
+
+Location: Qtr-Qtr: WILLIAMS
+
+: Section: e _ | Township:
+
+Range: [101 Cnty:
+
+WELL TEST DATA
+
+5414-5760 Feet
+
+Baker permanent
+
+| Perforations:
+
+: “3391, Feet Packer Model:
+Tubing Type:
+
+Disposal Well Reason for Test:
+
+BEFORE TEST START of TEST END of TEST
+225) PSIG [Shut In_ | | 225|PSIG [Shut In | 225 PSIG [Shut in_|
+1000)
+
+Tubing Pressure:
+
+Annulus or Casing Pressure: 0! PSIG :PSIG 7000 PSIG
+
+Treated Salt Water
+
+Test Fluid:
+
+Annulus or Casing Fluid :
+
+Salt Water
+
+Amount of Fluid Needed to Fill Annulus or Casing: pe 3 | Bbls
+Test Length: fis i Minutes Was Annulus or Casing Bled to Zero After Test?:
+
+Yes | If No - Pressure Left: | |
+
+INSPECTION COMMENTS
+
+Test Result: ab ee: Report of Work Done Required:
+5 year MIT - passed
+
+Company Representative Witnessing Test:
+
+Commission Field Inspector Witnessing Test:
+
+
+May 11, 2016
+Saltwater Disposal Well Reporting and Monitoring Requirements
+Page 2 of 2
+
+The NDIC abides by the Environmental Protection Agency guidelines for Exempt and
+Non-Exempt Oil and Gas Exploration and Production Wastes to determine what wastes can be
+accepted for disposal from oil and gas exploration and production operations. Attached is an
+example list of exempt and non-exempt oil and gas exploration and production wastes along with a
+flow chart for determining the status of a waste.
+
+The operator is only authorized to inject Class II fluids into a saltwater disposal well. Class
+II fluids are generally defined as follows:
+
+1.
+
+Produced water from oil and gas production.
+
+2. Waste fluids from actual drilling operations.
+
+3.
+
++
+
+nm
+
+= won
+
+Used workover, completion, and stimulation fluids recovered from production, injection,
+and exploratory wells.
+
+Waste fluids from circulation during well cementing.
+
+Pigging fluids from cleaning of collection and injection lines within the field.
+
+Enhanced recovery waters including fresh water makeup and other waters containing
+chemicals for the purpose of enhanced recovery.
+
+Gases used for enhanced recovery/pressure maintenance of production reservoirs.
+
+Brine reject from water softeners associated with enhanced recovery.
+
+Waste oil and fluids from clean up within the oil field.
+
+. Waste water from gas plants which are an integral part of production operations unless
+
+those waters are classified as hazardous waste at the time of injection.
+
+The following fluids are non-exempt fluids and are not authorized to be injected into a Class
+II saltwater disposal well:
+
+NAY WNS
+
+Unused fracturing fluids or acids.
+
+Vacuum truck and drum rinsate from trucks and drums containing non-exempt waste.
+Refined gasoline or diesel fuels.
+
+Used equipment lubricating oils.
+
+Refinery wastes.
+
+Radioactive tracer wastes.
+
+Car wash wastes.
+
+Please distribute this letter and the attachment to the appropriate personnel responsible for
+reporting on and monitoring each saltwater disposal well your company operates. If you have any
+questions, do not hesitate to contact me.
+
+Sincerely,
+
+Ashleigh Day
+Underground Injection Supervisor
+
+Industrial Commission of North Dakota
+Oil and Gas Division
+Spill / Incident Report
+
+Date/Time Reported : Jun 24 2014 / 21:45
+
+State Agency person
+
+Responsible Party : CONTINENTAL RESOURCES, INC.
+Well Operator : CONTINENTAL RESOURCES, INC.
+Date/Time of Incident : 6/24/2014 12:00:00 AM
+NDIC File Number : 90258
+
+Facility Number
+
+Well or Facility Name : ATLANTA #1 SWD
+
+Type of Incident : Tank Overflow
+
+Field Name : BAKER
+
+County : WILLIAMS
+
+Section : 6
+
+Township : 153
+
+Range : 101
+
+Quarter-Quarter
+
+Quarter
+
+Distance to nearest residence
+
+Distance to nearest water well
+
+Release Oil
+
+Release Brine
+
+Release Other
+
+Recovered Oil
+
+Recovered Brine
+
+Recovered Other
+
+Has/Will the incident be reported to the NRC? : No
+Was release contained : Yes — On Constructed Well Site
+Description of other released substance
+
+Immediate risk evaluation : None
+Followup Report Requested Y/N : Y
+
+NORTH DAKOTA Oil and Gas Division
+
+Lynn D. Helms - Director Bruce E. Hicks - Assistant Director
+Department of Mineral Resources
+Lynn D. Helms - Director
+North Dakota Industrial Commission
+
+OIL AND GAS DIVISION www.dimr.nd. gov/oilgas/ Ce 2 5S
+
+May 11, 2016
+
+RE: Saltwater Disposal Well Reporting and Monitoring Requirements
+Dear Saltwater Disposal Operator:
+
+This letter is to outline and clarify the Commission’s requirements for monthly reporting and
+monitoring of saltwater disposal wells which are outlined under North Dakota Administrative
+Code (NDAC) Section 43-02-05-12, and the type of wastes that can be injected pursuant to the
+EPA guidelines for Exempt and Non-Exempt Oil and Gas Exploration and Production Wastes.
+
+All injection into a saltwater disposal well must be measured, either through a meter or by an
+approved method. Accurate gauges must be placed on the tubing and tubing-casing annulus of the
+well for pressure monitoring. Any noncompliance with regulations or permit conditions must be
+reported to the Commission orally within 24 hours followed by a written explanation within 5
+days.
+
+Monthly reporting of the following information is required to be submitted for a saltwater
+disposal well on a Saltwater Disposal Report (Form 16):
+
+Beginning and end of month meter readings.
+
+Total barrels injected for the month.
+
+Average daily operating injection pressure (this means a typical pressure observed while
+the well is injecting, not a mathematical average).
+
+4. Sources of received fluid (these sources need to be listed by well or facility name and
+number, NDIC well or facility file number, and the location of each source by
+quarter-quarter, section, township, and range).
+
+Amount of fluid received from each source.
+
+Nature of the received fluid (i.e. produced water, pit water, etc.).
+
+7. Transportation method used to transport the injection fluid to the disposal well site (i.e.
+pipeline or truck).
+
+wo Ne
+
+By.
+
+Saltwater Disposal Reports (Form 16) are due on or before the fifth day of the second month
+succeeding the month in which the well is capable of disposal (i.e. January report due March 5th).
+
+Pursuant to NDAC Section 43-02-05-13.1, all records from which to make and substantiate
+required reports shall be kept for a period of not less than six years.
+
+600 E Boulevard Ave - Dept 405, Bismarck, North Dakota 58505-0840 Phone (701)328-8020 Fax (701)328-8022
+
+North Dakota Industrial Commission Follow-up Spill Report
+
+API Number Well File or Facility No
+33 - 105 - 90258 : 90258
+
+Telephone Number
+406-433-3006
+Zip Code
+
+59270
+
+Section Township Range County
+6 153 N 101 W_ {Williams
+
+Description of Spill Location if not on Well or Facility Site and/or Distance and Direction from Well or Facility
+
+Date Release Discovered Time Release Discovered
+Lease Operator June 24, 2014 7:00 AM June 24, 2014 8:00 AM
+Company Personne! Notified How Notified
+Jake Volkman Phone Call June 24, 2014 7:00 AM
+
+Type of Incident Root Cause of Release Date Clean up Activities Concluded
+
+Tank Overflow Human Error July 2, 2014
+
+(If Applicable) “a
+
+Was Release Contained Within Dike lf No, Was Release Contained on Well Site {If No, Was Release Contained on Facility Site or Pipeline ROW
+No Yes
+
+Areal Extent of Release if not Within Dike Affected Medium General Land Use
+Approx. 15' x 85’ area around containment Well/Facility Soil Well/Facility Site
+Describe Cause of Release or Fire and Other Type of Incidents, Root Causes of Release, Land Uses, and Released Substances
+Produced water tanks with automation controls was bypassed. Production water tank subsequently overflowed.
+
+Operator
+Continental Resources, Inc.
+
+Action Taken to Control Release and Clean Up Action Undertaken
+Water was sucked up. Contaminated soil removed.
+
+Potential Environmental Impacts
+Well site soil
+
+Planned Future Action and/or Action Taken to Prevent Reoccurrence
+
+Where Were Recovered Liquids Disposed Where Were Recovered Solids Disposed
+Disposal well on site Indian Hills Disposal
+
+Weather Wind Speed |Wind Direction |Temperature |Skies Estimated Cleanup Cost |Damage Value
+Conditions MPH oF $ $
+Regulatory Agencies/Others Notified |Person Notified Date Notified Time Notified Notified By
+NDIC/NDDH John Axtman June 24, 2014 6 : 08 PM |Justin Collins
+Fee Surface Owner ae Se, Ee)
+Federal Agency Lease Number |
+Report Originator Title Date
+JUSTIN COINS tcnvironmental >peciallst July Z, 2U14
+Signature Date
+
+YO be, q[4f roi
+
+4
+
+oO
+c
+rE
+
+
+rm —_
+SUNDRY NOTICE. .ND REPORTS ON WELLS - FORM «4 — RS
+»
+
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+Well File No.
+90258
+
+OIL AND GAS DIVISION
+
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+
+SFN 5749 (09-2006)
+
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. “
+[| Notice of Intent Approximate Start Date C] Drilling Prognosis C] Spill Report
+[1 Rearitling or Repair [1 Shooting
+Report of Work Done Date Work Completed C] Casing or Liner C] Acidizing
+ri
+April 9, 2013 [-] Plug Well [_] Fracture Treatment
+[| Notice of Intent to Begin a Workover Project that may Qualify [| Supplemental History CL] Change Production Method
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03. a 1 ity Aband Oo Reclamat
+Approximate Start Date emporarily Abandon eclamation
+Other Begin Disposal
+
+Well Name and Number
+Atlanta #1 SWD
+
+Footages Qtr-Qtr Section Township Range
+260 F NL 432 —F W L| NWNW 6 153 N 101 W
+
+Field Pool County
+Baker Dakota Williams
+
+24-HOUR PRODUCTION RATE
+[Before | After
+Gas SCF [Gas MCE
+
+Name of Contractor(s)
+
+DETAILS OF WORK
+
+Continental Resources, Inc., began saltwater disposal on 4/9/2013. MIT was run on 3/27/2013 wi NDIC representative
+Dan Wells as witness. Press up to 1000 psi, held 15 min.
+
+Company
+
+Telephone Number
+Continental Resources, Inc. 405-234-9000
+
+Address
+P.O. Box 268870
+
+City State Zip Code
+Oklahoma City OK 73126
+
+Printed Name
+AA G—= Or Terry L. Olson
+
+Teta Compnaics secianse laprnas.zots
+Regulatory Compliance Specialist April 18, 2013
+Email Address
+
+FOR STATE USE ONLY
+
+
+— |) 2
+y  SFN 2466 (04-2010)
+
+* Weill Specific Stimulations
+
+Date Stimulated Top (Ft) | Bottom (Ft) Volume Units
+3/1/2013 Dakota 1 6000 Gallons
+
+Type Treatment Maximum Treatment Pressure (PSI) [Maximum Treatment Rate (BBLS/Min)
+Acid 15 0 2670 6.0
+
+Detzils
+Interval treated under a packer
+
+Volume Units
+Gallons
+
+Date Stimulated Stimulated Formation Top (Ft) | Bottom (Ft)|Stimulation Stages Volume
+3/1/2013] Dakota 5590 5606/1 2500
+
+Type Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) [Maximum Treatment Rate (BBLS/Min)
+Acic 15 0 2980 6.4
+
+Detzils
+Inte-val isolated with a packer and bridge plug
+
+Date: Stimulated Stimulated Formation Top (Ft) [Bottom (Ft)
+3/2/2013|Dakota ea eee 4000 Gallons
+
+Type Treatment Acid % Maximum Treatment Pressure (PSI)
+
+Acic| 15 0 3000 7.0
+
+Details
+
+Interval isolated with a packer and bridge plug
+
+Volume Units
+
+Date Stimulated Stimulated Formation Top (Ft) | Bottom (Ft)}Stimulation Stages Volume
+Type Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) | |Maximum Treatment Rate (BBLS/Min)
+
+Details
+
+Volume Units
+
+Date Stimulated Stimulated Formation Top (Ft) | Bottom (Ft)| Stimulation Stages Volume
+Typ? Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) |Maximum Treatment Rate (BBLS/Min)
+
+Details
+
+ADDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS
+
+| hereby swear or affirm that the information
+provided is true, complete and correct as
+determined from all available records.
+
+P ) Terry L. Olson Regulatory Compliance Specialist
+
+Email Address
+
+4/15/2013
+
+Terry.Olson@clr.com
+
+
+roe —
+
+Well Integrity Report - Form 19 Summary yes
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+
+UIC No. }W0365S0839D
+
+Test Date: [3/27/2013 1:36:53 PM Contractor Performing Pressure Test: [Basic Energy Services
+
+Operator: [CONTINENTAL RESOURCES, INC. SS Telephone : [4052349000
+
+Address: [PO BOX 268870 City: [OKLAHOMA CITY State: [ox Zi 73126 2 2
+
+p Code: |
+WellName: [ATLANTA #1SWD ©6»»SPD—™'.--C™r"-™ Fielgd: | EBA en.
+
+[ATLANTA #1 SWD Field: [BAKER
+
+Location: Qtr-Qtr: [NWNW Section: [o Township: fi53 Range: /10] Cnty: [WILLIAMS
+
+WELL TEST DATA
+
+——— Se
+J-55 11.64 IPC
+
+Perforations:
+Depth: | 5398 Feet Packer Model:
+Tubing Type:
+
+Tool Type:
+
+Inches
+‘Disposal Well ~
+
+Tubing Size:
+Well Type:
+
+Reason for Test: ; Test Type:
+
+BEFORE TEST START of TEST END of TEST
+
+0 PSIG [Shut In PSIG [Shut In 0 PSIG Shut In
+0 PSIG 1000 PSIG 1000 PSIG
+
+Annulus or Casing Fluid : oS ststtenattsonsstsusutna Test Fluid: Fires wae ——
+
+Amount of Fluid Needed to Fill Annulus or Casing: [0.25 ~~ Bbls
+[Yes If No- Pressure Left: |
+
+Tubing Pressure:
+
+Annulus or Casing Pressure:
+
+Test Length: [is Minutes Was Annulus or Casing Bled to Zero After Test?:
+
+INSPECTION COMMENTS
+
+SUBMIT FORM 6 COMPLETION REPORT
+|SUBMIT FORM 4 NOTING DATE OF FIRST INJECTION. (SJF)
+
+This Report is true and complete to the best of my knowledge.
+
+Company Representative Witnessing Test: (Chris Sperling ~ ~~ "Title:
+
+Commission Field Inspector Witnessing Test: [Daniel Wells
+
+{Production Foreman
+
+NDIC Initials [Ss J #
+
+WELL COMPLETION OR RECOMPLETION REPORT - FOR Pe ay,
+> INDUSTRIAL COMMISSION OF NORTH DAKOTA on M8 ON
+
+3] |] OIL AND GAS DIVISION OS 4 @), [Well File No.
+‘f 90258
+APR 2913, &
+
+fo.
+
+a]
+
+WSs in Soe o 600 EAST BOULEVARD DEPT 405
+Sian” BISMARCK, ND 58505-0840
+
+Se
+
+S 4,
+SFN 2468 (04-2010) fs RECE. VED
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. ep mie é GAs &
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. 0 ey
+Designate Type of Completion eb S Ze
+Et Oil Well [| EOR Well | Recompletion [] Deepened Well LC] Added Horizontal Leg | Extended Horizontal Leg
+[| Gas Well SWD Well [ ] Water Supply Well [| Other:
+Well Name and Number Spacing Unit Description
+Atlanta #1 SWD Sec 6 T153N R101W
+Operator Telephone Number Field
+Continental Resources, Inc. Baker
+Address Pool
+P.O. Box 268870 — Bakken
+
+City State Zip Code Permit Type .
+Ok/ahoma City OK 73126 L_] Wildcat Development [_] Extension
+
+LOCATION OF WELL
+
+At Surface Qtr-Qtr Section Township Range County
+Spud Date Date TD Reached Drilling Contractor and Rig Number KB Elevation (Ft) |Graded Elevation (Ft)
+11/25/2013 12/11/2013 Cyclone 2
+
+Type of Electric and Other Logs Run (See Instructions) / 196 t VE
+CBL/GR/IMAC/mud
+
+CASING & TUBULARS RECORD (Report all strings set in well)
+
+Type Size (Inch) (MD Ft) (MD Ft) (Inch) (Lbs/Ft) (MD Ft) (MD Ft) Cement Cement
+[Conductor [| 16 | 20
+
+Well Bore
+Lateral1
+
+=
+
+-_
+
+rs Se et ae
+ee a
+surface | 9 se | | aso za as TdT C~=~sC“‘( mT
+Production [7 | | sora a aa [as | CdTC:C*~“‘iLS*CS’:*CSESCOC
+tubing Ta v2 sano ie 0 Cd CS”
+se a ee |
+ee
+PERFORATION & OPEN HOLE INTERVALS
+
+Open Hole/Perforated
+Well Bore TD . ! i
+Well Bore | Drillers Depth| Completion interval (MD,Ft) Date Perfd Isolation
+
+Bie or Drilled Method
+
+Lateral1
+
+PRODUCTION
+Current Producing Open Hole or Perforated Interval(s), This Completion, Top and Bottom, (MD Ft)
+
+Name of Zone (|If Different from Pool Name)
+Dakota Salt Water Disposal 5414" - 5760'
+Date Well Completed (SEE INSTR a7 Producing Method Pumping-Size & Type of Pump Well Status (Producing or Shut-In)
+6/13
+Date of Test Hours Tested |Choke ed Production for Test Oil (Bbls) |Gas (MCF) |Water (Bbls) | Oil Gravity-API ear) Disposition of Gas
+Flowing Tubing Pressure (PSI) [Flowing Casing Pressure (PSI) Calculated Oil (Bbis) Gas (MCF) Water (Bbis) |Gas-Oil Ratio
+24-Hour Rate
+
+
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+
+600 EAST BOULEVARD DEPT 405
+
+BISMARCK, ND 58505-0840
+
+SFN 5749 (09-2006)
+
+SUNDRY NOTICEQ@@AND REPORTS ON WELLS - Font 4
+
+Well File No.
+90258
+
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+
+Notice of Intent Approximate Start Date
+December 14, 2012
+C] Report of Work Done Date Work Completed
+
+C] Notice of Intent to Begin a Workover Project that may Qualify
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03.
+
+Approximate Start Date
+
+Well Name and Number
+
+Atlanta #1 SWD
+
+Footages Section Township Range
+260 F NL 432 F WL 6 153 N 101 W
+
+Field Pool County
+
+Baker Bakken Williams
+
+Name of Contractor(s)
+
+DETAILS OF WORK
+
+Drilling Prognosis Spill Report
+
+Redrilling or Repair Shooting
+
+Casing or Liner Acidizing
+Supplemental History Change Production Method
+
+Temporarily Abandon Reclamation
+
+LO
+LO
+LO
+Plug Well | Fracture Treatment
+LO
+
+Other
+
+24-HOUR PRODUCTION RATE
+
+Surface Owner: Continental Resources, Inc., P.O. Box 268870, Oklahoma City, OK 73126
+Saltwater Disposals: Zimmerman Disposal, Land Tech Rehak Disposal, Land Tech Williston Disposal
+
+Proposed Work: Haul fluids off to one of the disposals within the area
+Spread flyash and solidify, then backfill with dirt.
+Replace topsoil from stockpile and reseed reclaimed area.
+Establish grade for surface drainage away from reclaimed pit area.
+
+Company Telephone Number
+Continental Resources, Inc. 405-234-9000 FOR STATE USE ONLY
+
+[_] Received hX] Approved
+Zip Code Date ,
+OK 73126 P “2 J). A,
+
+Printed Name
+ees 0B
+
+5 ’ = DH
+Date
+
+December 17, 2012
+
+Email Address
+Terry.Olson@clir.com
+
+
+Page 2 iy
+
+SFN 2468 (04-2010)
+GEOLOGICAL MARKERS
+
+|Greenhorn | 4884
+[DakotaGroup_ | | 8B
+Basal DakotaSand | | 5780
+ST || bees
+i a poe San ee
+a eee es
+re eel ee
+ay Pe ey
+ae |
+PS Bae
+ee ee ee
+een Me ee
+SS es ea
+a a eee
+aes, (a ee
+Pca ae ey a |S
+Eee) eee
+gc ne)
+ans ene
+eee ee
+ee ae Sl
+Ne a a eel
+i. ee a
+Pee | a a ee
+(Ce | ge
+ee Me |r,
+| eet Se de | SE
+SOD Tees |
+
+Drill Stem Test
+
+Test Date Formation
+
+Sample Chamber Recovery
+
+Test Date Formation Top (Ft)
+Drill Pipe Recovery
+
+Sample Chamber Recovery
+
+Test Date Formation Top (Ft)
+Drill Pipe Recovery
+
+Sample Chamber Recovery
+
+Test Date Formation Top (Ft)
+Drill Pipe Recovery
+
+Sample Chamber Recovery
+
+Test Date Formation Top (Ft)
+Drill Pipe Recovery
+
+Sample Chamber Recovery
+
+Bottom (Ft] Formation | Top (Ft)_| Bottom (Ft)
+re et: a Ce:
+a es | es ee
+sa a”
+
+PLUG BACK INFORMATION
+
+CORES CUT
+
+Bottom (Ft)|BH Temp (°F) |CL ppm H2S ppm Shut-in 1 (PSIG) |Shut-in 2 (PSIG)
+
+Bottom (Ft)}/BH Temp (°F) |CL ppm H2S ppm Shut-in 1 (PSIG) |Shut-in 2 (PSIG)
+
+Bottom (Ft)|BH Temp °F) [CL ppm |H2S ppm Shut-in 1 (PSIG) [Shut-in 2 (PSIG)
+
+Bottom (Ft)|BH Temp (°F) [CL ppm |H2S ppm Shut-in 1 (PSIG) |Shut-in 2 (PSIG)
+
+=NEWSCO
+
+International Energy Services USA Inc.
+
+Survey Certification Sheet
+
+Continental Resources 32284 November 27,2012
+Company Job Number Date
+7 AES 4 Atlanta SWD Williams County, North Dakota
+Unmanned Tool Well Name County & State
+Surveyed from a depth of: Surface to 1927.00 Ft.
+GL to KB 47 Ft.
+Type of Survey NVADER
+
+Directional Supervisor/Surveyor: David Hopper
+
+The data and calculations for this survey have been checked by me and conform to
+the standards and procedures set forth by Newsco Directional. This report
+represents a true and correct Directional Survey of this well based on the original
+data obtained at the well site. Wellbore Coordinates are calculated using minimum
+curvature.
+
+1 PO Box 1810, Mills Wyoming 826441 (307) 232-6336 « Fax (307) 232-6337
+
+Continental Resources Inc.
+Williams County, ND
+
+Atlanta
+
+Atlanta 1 SWD
+
+OH
+
+Design: OH
+
+Standard Survey Report
+
+14 December, 2012
+
+<<) Scientific
+“seg Drilling
+7327 West Barton Road
+
+Casper, WY 82604
+(307)-472-6621 Fax (307) 472-5439
+
+Survey Certification
+
+Operator Continental Resources Inc.
+Well Name & No. Atlanta #a SWD
+County & State Williams County, ND
+SDI Job No. 41EF 12121198
+Rig Cyclone 2
+Survey Date 08/Dec/12
+l, Seth Burstad , having personal knowledge of all the facts, hereby
+certify that the attached directional survey run from a measured depth of 1927 feet to a
+measured depth of 5891 _ feet is true and correct as determined from all available records.
+SNe Ste 14-Dec-12
+Signature Date
+Seth Burstad
+
+Casper Well Planner
+Scientific Drilling - Rocky Mountain District
+
+
+NEWSC ©
+
+Directional Services U.S.A.
+
+Continental Resources NEWSCO JOB # 32284
+11/27/2012 _ WELLNAME: Atlanta SWD
+
+North Dakota RIG: AES
+Baker CONTRACTOR: 4.00
+
+TIE-ON DATA TARGET DATA
+
+100.00 SENSOR TO BIT:
+0.00 KB TOGL:
+6.00 Total:
+0.60 . TVD:
+AZIMUTH: 6.00 . INC:
+N(+) S(-): 0.60 VS:
+E(+) W(-): 6.00 Big rig KB to GL
+VISECTION PLANE: 0.00
+
+100 FEET
+DEPTH CRSL TVD VS +N/S- +EW- DLS VBUR | WALK TF
+0.00 0.00
+
+0.00
+
+Company:
+Project:
+Site:
+
+Well:
+Wellbore:
+
+Design:
+
+Scientific Drilling International, Inc.
+
+Continental Resources Inc.
+Williams County, ND
+Atlanta
+
+Atlanta 1 SWD
+
+OH
+
+OH
+
+Survey Report
+
+Local Co-ordinate Reference:
+TVD Reference:
+
+MD Reference:
+
+North Reference:
+
+Survey Calculation Method:
+
+Database:
+
+Well Atlanta 1 SWD
+GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+
+GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+True
+
+Minimum Curvature
+Rockies Compass Server
+
+Project
+
+Map System:
+Geo Datum:
+Map Zone:
+
+Site
+
+Site Position:
+From:
+
+Position Uncertainty:
+
+Williams County, ND
+
+US State Plane 1983
+North American Datum 1983
+
+North Dakota Northern Zone
+
+Atlanta
+Northing:
+Lat/Long Easting:
+0.00 ft Slot Radius:
+
+System Datum:
+
+421,456.62 usft
+1,179,207.34 usft
+13.200 in
+
+Latitude:
+
+Longitude:
+Grid Convergence:
+
+Mean Sea Level
+
+48° 6' 35.990 N
+103° 43' 54.570 W
+-2.40 °
+
+Well Atlanta 1 SWD, 260' FNL 432' FWL Sec 6 T153N R101W
+Well Position +N/-S 0.00 ft Northing: 421,456.62 usft Latitude: 48° 6' 35.990 N
++E/-W 0.00 ft Easting: 1,179,207.34 usft Longitude: 103° 43' 54.570 W
+Position Uncertainty 0.00 ft Wellhead Elevation: ft Ground Level: 1,945.00 ft
+Wellbore OH
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+(*) (*) (nT)
+IGRF2010 12/07/12 8.59 73.07 56,599
+Design OH
+Audit Notes:
+Version: 1.0 Phase: ACTUAL Tie On Depth: 0.00
+Vertical Section: Depth From (TVD) +N/-S +E/-W Direction
+(ft) (ft) (ft) (*)
+0.00 0.00 0.00 280.98
+Survey Program Date 12/14/12
+From To
+(ft) (ft) Survey (Wellbore) Tool Name Description
+70.00 1,927.00 Survey #1 - Surface (OH) MWD MWD - Standard
+2,050.00 5,891.00 Survey #2 - SDI MWD Survey (OH) MWD SDI MWD - Standard ver 1.0.1
+Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate Rate Rate
+(ft) (?) () (ft) (ft) (ft) (ft) (M00f) —_(*/100ft) (°/100ft)
+1,927.00 0.30 2.60 1,926.96 1.69 -8.73 8.89 0.81 -0.21 135.32
+Last Newsco Survey
+2,050.00 0.59 280.23 2,049.96 2.13 -9.33 9.57 0.51 0.24 -66.97
+First SDI MWD Survey
+2,144.00 0.57 350.92 2,143.96 2.68 -9.88 10.21 0.71 -0.02 75.20
+2,237.00 0.60 4.13 2,236.95 3.62 -9.92 10.43 0.15 0.03 14.20
+2,331.00 0.28 17.19 2,330.95 4.33 -9.82 10.46 0.35 -0.34 13.89
+2,425.00 0.51 118.26 2,424.95 4.35 -9.38 10.04 0.67 0.24 107.52
+2,518.00 0.92 130.67 2,517.94 3.67 -8.45 8.99 0.47 0.44 13.34
+
+12/14/12 10:34:40AM
+
+Page 2
+
+COMPASS 5000.1 Build 40
+
+Company: Continental Resources Inc.
+Project: Williams County, ND
+
+Site: Atlanta
+
+Well: Atlanta 1 SWD
+
+Wellbore: OH
+
+Design: OH
+
+Design Annotations
+
+Measured Vertical
+Depth Depth
+(ft) (ft)
+
+70.00 70.00
+1,927.00 1,926.96
+2,050.00 2,049.96
+5,891.00 5,890.63
+
+Checked By:
+
+12/14/12 10:34:40AM
+
+Scientific Drilling International, Inc.
+
+Survey Report
+
+Local Co-ordinate Reference: Well Atlanta 1 SWD
+
+TVD Reference: GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+MD Reference: GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+North Reference: True
+
+Survey Calculation Method: Minimum Curvature
+
+Database: Rockies Compass Server
+
+Local Coordinates
+
++N/-S +E/-W
+(ft) (ft) Comment
+0.12 0.02 First Newsco Survey
+1.69 -8.73 Last Newsco Survey
+2.13 -9.33 First SDI MWD Survey
+-19.58 6.34 Last SDI MWD Survey
+Approved By: Date:
+
+Page 4 COMPASS 5000.1 Build 40
+
+Company: Continental Resources Inc.
+
+Project: Williams County, ND
+
+Site: Atlanta
+
+Well: Atlanta 1 SWD
+
+Wellbore: OH
+
+Design: OH
+
+Survey
+
+Measured
+Depth Inclination Azimuth
+
+(ft) (*) (*)
+2,612.00 1.02 151.07
+2,705.00 0.93 161.52
+2,799.00 1.17 167.79
+2,893.00 1.14 169.99
+2,986.00 1.24 148.31
+3,080.00 1.36 143.53
+3,173.00 1.13 150.90
+3,267.00 1.29 146.22
+3,360.00 1.20 132.82
+3,453.00 1.22 129.19
+3,547.00 1.12 144.25
+3,640.00 0.99 150.48
+3,733.00 1.11 143.94
+3,827.00 0.71 148.34
+3,921.00 0.90 145.16
+4,014.00 0.73 153.66
+4,107.00 0.26 352.14
+4,201.00 0.09 359.45
+4,294.00 0.24 271.04
+4,387.00 0.21 241.94
+4,481.00 0.35 174.56
+4,574.00 0.48 174.63
+4,668.00 0.71 353.06
+4,761.00 0.24 118.36
+4,855.00 0.27 142.94
+4,948.00 0.20 16.27
+5,042.00 0.34 38.71
+5,135.00 0.50 114.02
+5,229.00 0.74 141.96
+5,322.00 0.20 353.53
+5,416.00 0.32 31.46
+5,509.00 0.41 328.60
+5,603.00 0.43 324.50
+5,695.00 0.32 316.39
+5,789.00 0.62 240.25
+5,882.00 0.14 258.23
+5,891.00 0.23 275.39
+
+Last SDI MWD Survey
+
+12/14/12 10:34:40AM
+
+Scientific Drilling International, Inc.
+
+Vertical
+Depth
+(ft)
+
+2,611.93
+2,704.91
+
+2,798.90
+2,892.88
+2,985.86
+3,079.83
+3,172.81
+
+3,266.79
+3,359.77
+3,452.75
+3,546.73
+3,639.71
+
+3,732.70
+3,826.69
+3,920.68
+4,013.67
+4,106.67
+
+4,200.66
+4,293.66
+4,386.66
+4,480.66
+4,573.66
+
+4,667.66
+4,760.66
+4,854.66
+4,947.65
+5,041.65
+
+5,134.65
+5,228.65
+5,321.64
+5,415.64
+5,508.64
+
+5,602.64
+5,694.64
+5,788.63
+5,881.63
+5,890.63
+
+Survey Report
+
+Local Co-ordinate Reference:
+TVD Reference:
+
+MD Reference:
+
+North Reference:
+
+Survey Calculation Method:
+
+Database:
+Vertical
++N/-S +E/-W Section
+(ft) (ft) (ft)
+
+2.44 -7.47 7.80
+
+1.00 -6.83 6.90
+
+-0.66 -6.39 6.15
+
+-2.52 -6.02 5.43
+
+-4.29 -5.33 4.42
+
+-6.05 -4.14 2.91
+
+-7.74 -3.04 1.51
+
+-9.43 -2.00 0.16
+-10.96 -0.70 -1.40
+-12.25 0.78 -3.10
+-13.62 2.09 -4.65
+-15.06 3.02 -5.83
+-16.49 3.95 -7.02
+-17.72 4.79 -8.08
+-18.82 5.52 -9.00
+-19.95 6.20 -9.88
+-20.27 6.43 -10.17
+-19.99 6.40 -10.09
+-19.91 6.21 -9.88
+-19.99 5.86 -9.56
+-20.36 5.74 -9.51
+-21.03 5.80 -9.70
+-20.84 5.76 -9.63
+-20.36 5.87 -9.64
+-20.63 6.17 -9.99
+-20.65 6.35 -10.17
+-20.27 6.57 -10.31
+-20.22 7.11 -10.84
+-20.87 7.86 -11.70
+-21.18 8.22 -12.10
+-20.79 8.33 -12.14
+-20.29 8.30 -12.01
+-19.71 7.92 -11.53
+-19.25 7.54 -11.07
+-19.31 6.92 -10.47
+-19.58 6.37 -9.98
+-19.58 6.34 -9.95
+
+Page 3
+
+Well Atlanta 1 SWD
+GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+
+GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+True
+
+Minimum Curvature
+Rockies Compass Server
+
+Dogleg Build Turn
+Rate Rate Rate
+(°/100ft) (°/100Ft) (°/100Ft)
+0.38 0.11 21.70
+0.21 -0.10 11.24
+0.28 0.26 6.67
+0.06 -0.03 2.34
+0.49 0.11 -23.31
+0.17 0.13 -5.09
+0.30 -0.25 7.92
+0.20 0.17 -4.98
+0.33 -0.10 -14.41
+0.09 0.02 -3.90
+0.34 -0.11 16.02
+0.19 -0.14 6.70
+0.18 0.13 -7.03
+0.43 -0.43 4.68
+0.21 0.20 -3.38
+0.22 -0.18 9.14
+1.05 -0.51 -173.68
+0.18 -0.18 7.78
+0.27 0.16 -95.06
+0.13 -0.03 -31.29
+0.35 0.15 -71.68
+0.14 0.14 0.08
+1.27 0.24 189.82
+0.94 -0.51 134.73
+0.12 0.03 26.15
+0.45 -0.08 -136.20
+0.18 0.15 23.87
+0.57 0.17 80.98
+0.40 0.26 29.72
+0.99 -0.58 -159.60
+0.22 0.13 40.35
+0.42 0.10 -67.59
+0.04 0.02 -4.36
+0.13 -0.12 -8.82
+0.67 0.32 -81.00
+0.53 -0.52 19.33
+1.16 1.00 190.67
+
+COMPASS 5000.1 Build 40
+
+NORTH DAKOTA Oil and Gas Division
+
+Lynn D. Helms - Director Bruce E. Hicks - Assistant Director
+Department of Mineral Resources
+Lynn D, Helms - Director
+) North Dakota Industrial Commission
+OIL AND GAS DIVISION www.dinr.nd. gov/oilgas
+
+PERMIT FOR FLUID INJECTION
+
+OPERATOR: Continental Resources, Inc.
+
+ADDRESS: P.O. Box 268870 Oklahoma City, OK 73126
+
+WELL NAME & NO.: Atlanta #1 SWD
+
+LOCATION: NWNW Section 6, T153N, R101W Williams County, ND
+AUTHORIZED INJECTION ZONE: Dakota Group
+
+UNDERGROUND INJECTION CONTROL (UIC) NO.: W0365S0839D
+WELL FILE NO.: 90258
+
+PERMIT DATE: November 21, 2012
+
+The operator shall notify the North Dakota Industrial Commission (“Commission”) at least
+24 hours prior to plugging back and converting said well to a saltwater disposal well. This
+permit is conditioned upon the operator complying with the provisions set forth in Chapter
+43-02-05, Chapter 43-02-03, any other applicable rules or orders of the Commission, and the
+following stipulations:
+
+(1) Injection of saltwater trucked and/or pipelined from other offsite wells is prohibited.
+
+(2) The operator shall obtain approval on plug-back procedure prior to converting said well
+to a saltwater disposal well.
+
+(3) The injection interval shall be isolated by cement and verified by a cement bond log
+prior to injecting fluids.
+
+(4) Injection shall be through tubing and packer set within 100 feet of the top perforation.
+
+(5) A Commission Field Inspector must witness a satisfactory mechanical integrity test on
+the tubing-casing annulus prior to injecting fluids.
+
+(6) Accurate pressure gauges shall be placed on the tubing and on the tubing-casing
+annulus.
+
+(7) Written notice must be given of the date of first injection immediately and of any
+discontinuance within ten days. Written notice must also be given of the date injection
+recommences.
+
+(8) All fluids injected shall be metered or measured using an approved method.
+
+(9) The operator is only authorized to inject Class II fluids into said well. Class II fluids are
+
+600 E Boulevard Ave - Dept 405, Bismarck, North Dakota 58505-0840 Phone (701)328-8020 Fax (701)328-8022
+
+Permit For Fluid Injection
+Continental Resources, Inc.
+Atlanta #1 SWD
+
+Page 2 of 3
+
+generally defined as follows:
+a. Produced water from oil and gas production;
+b. Waste fluids from actual drilling operations;
+c. Used workover, completion, and stimulation fluids recovered from production,
+injection and exploratory wells;
+
+d. Waste fluids from circulation during well cementing;
+e.  Pigging fluids from cleaning of collection and injection lines within the field;
+f. Enhanced recovery waters including fresh water makeup and other waters
+
+containing chemicals for the purpose of enhanced recovery;
+g. Gases used for enhanced recovery/pressure maintenance of production reservoirs;
+h. Brine reject from water softeners associated with enhaneed recovery;
+i. Waste oil and fluids from clean up within the oil field;
+j. Waste water from gas plants which are an integral part of production operations
+unless those waters are classified as hazardous waste at the time of injection.
+
+(10) Two copies of all logs run hereinafter and a Sundry Notice (Form 4) detailing the
+conversion of this well must be submitted to the Commission within 30 days after the completion
+of the conversion. The logs shall be submitted as one paper copy and one digital LAS (log ASCII)
+formatted copy, or a format approved by the director. The Sundry Notice shall include, but not be
+limited to, the following information: work completed and depths to plug back well, plug back
+depth, details of any isolation squeezes, perforated interval, packer type and depth, tubing size and
+type, and any other remedial work done as well as the dates the work was performed
+
+(11) The operator shall report any noncompliance with regulations or permit conditions
+within 24 hours followed by a written explanation within five days.
+
+(12) Approval shall be obtained prior to attempting any remedial work to the casing strings.
+
+(13) Following any remedial work done to this well over the life of this well, a Sundry
+Notice (Form 4) must be submitted detailing the work done. This report shall include the reason for
+the workover, the work done, dates, size and type of tubing, type and location of packer, result of
+pressure test, and any other pertinent data.
+
+(14) Following the completion of any remedial work, the Director is authorized to order
+further mechanical integrity tests or other remedial work as deemed necessary to insure the
+mechanical integrity of the well and to prevent the movement of injected fluids into an underground
+source of drinking water or a zone other than authorized herein.
+
+(15) The operator shall report monthly, regardless of the status of the operations, the amount
+of any fluid injected, the sources thereof, and the average injection pressure. The reports (Forms 16
+and 16A) shall be filed with the Director on or before the fifth day of the second month following
+that in which injection occurred or could have occurred.
+
+(16) If oil is recovered from the disposal operations, the operator shall report monthly,
+regardless of the status of the operations, the amount of oil recovered and sold, and the purchaser of
+said oil. The reports (Form 5 SWD) shall be filed with the Director on or before the Ist day of the
+second succeeding month.
+
+(17) The well and injection system shall be kept under continuing surveillance.
+
+(18) Injection operations shall cease immediately if so directed by the Director or one of his
+representatives.
+
+(19) The operator shall conduct tests and install monitoring equipment as prescribed by the
+Director to verify the integrity of the surface facility, gathering system and injection well and to
+
+UIC PERMIT CHECKLIST
+
+Well File No.
+90258
+
+Continental Resources, Inc. Atlanta #1 SWD
+260 F N L 432 F W L| NWNW 6 153 N 101 W_ |Williams
+
+Baker Dakota Proposed
+
+Logs on File Top of Cement TOC Determined By and Date
+
+To be run TBD Feet CBL [_] Temp [_] Calc
+
+Injection Zone Top Confining Zone Thickness
+
+Dakota 4927 Feet Mow
+
+110
+
+. Operator and well on bond as listed. *C396-Notify Rich S. for log waiver
+
+x 2. Completed Form 14. *
+Estimated frac pressure of confining zone. 3942 psi, gradient 0.8 _ psi/ft.
+Maximum injection rate and pressure. 10000 bpd @ 1300 __ psi.
+
+K-ybase 1844 Feet.
+
+x 3. Lithology of proposed injection zone and confining zones.*
+x 4. Map of area of review.
+NA 5. Name and location of wells in area of review.
+NA 6. Corrective action on wells in area of review. *14 wells to be drilled
+x 7. Injection program.”
+x 8. x a. Analysis from state certified lab of two nearest fresh water wells.”
+_NA __ b. For units listed below: name and location of two nearest fresh water wells.
+_NA_c. For units listed below: analysis from state certified lab of any new fresh water wells.
+x 9. Analysis from state certified lab of injection fluid.*
+x 10. List of source wells.*
+x 11, Landowner description within area of review.*
+x 12. Certification of notification of landowners and letter sent.*
+
+NA 13, Logs and test data if not previously submitted.
+x 14, Drawing of current* and proposed well bore and surface construction.”
+15.
+NA 16, Traffic Flow Diagram
+
+Dike Schematic *
+
+bs 17. Sundry detailing conversion procedure.
+: 18, Form 1
+x 19, AQUIFER CHECK In wellhead protection area, will have stipulation limiting to wells on site
+
+Date Landowner Notified
+August 6, 2012
+Hearing
+Hearing Date Case No, Order No. Permit Date UIC Number
+October 25, 2012 18970 21271 November 21, 2012 W0365S0839D
+
+Administrative
+
+Order No, Allowing Injection Permit Date UIC Number
+NA NA NA
+
+Permit Approved By nitials)
+Stephen Fried 5 JP
+
+le —————————
+
+Note: "*" indicates that the item is not required for EOR wells in the Cedar
+Creek, Cedar Hills North, Medicine Pole Hills South, Mohall, and Wiley units.
+
+Permit For Fluid Injection
+Continental Resources, Inc.
+Atlanta #1 SWD
+
+Page 3 of 3
+
+insure that the surface and subsurface potable waters will be protected.
+
+(20) All fires, breaks, leaks, spills, or other accidents of this nature shall be reported to the
+Oil and Gas Division orally within 24 hours after the discovery and followed by a report within 10
+days. The report shall include, but not be limited to, the following information:
+
+Operator of facility.
+
+Name and number of facility.
+
+Exact location of accident.
+
+Date of occurrence.
+
+Date of cleanup.
+
+Amount and type of each fluid involved.
+Amount of each fluid recovered.
+
+Steps taken to remedy the situation.
+
+Cause of the accident.
+
+Action taken to prevent reoccurrence.
+Signature and title of company representative.
+Telephone number of company representative.
+
+(21) The Director is hereby authorized to issue administrative orders to include such other
+terms and conditions as may be necessary to insure proper compliance with the provisions of
+Chapter 38-08 of the North Dakota Century Code and Chapter 43-02-05 and 43-02-03 of the North
+Dakota Administrative Code. The Director is further authorized to immediately order the well
+shut-in if mechanical failure or downhole problems indicate that injected fluids are, or may be,
+moving into a zone other than authorized herein, or if the operator of the well fails to comply with
+the statutes, rules, orders of the Commission or written or oral directives of the Commission or its
+staff,
+
+(22) Unless the well is converted to a saltwater disposal well by November 21, 2013, this
+permit shall expire and be of no further force and effect.
+
+(23) If the authorized injection zone is plugged and abandoned, this permit shall expire and
+be of no further force and effect.
+
+~ Fo T S ge me ae op
+
+This permit is effective the date set forth below and is transferable only upon approval of the
+Commission.
+
+Dated this 21" day of November, 2012.
+
+North Dakota Industrial Commission
+Oil and Gas Division
+
+Lynn D. Helms
+
+Director
+
+By:
+Stephen Fried
+UIC Supervisor
+
+
+Atlanta #1 SWD
+Sec 6-T153N-R101W
+Williams County, ND
+
+Lithology of the Injection Zone
+Dakota sandstone (Cretaceous)
+
+4927’ —5900’ Sandstone, light-med gray fine-med grained coarse in parts, calcareous in parts.
+Interbedded with shales and siltstones light-med gray.
+
+Lithology of the top confining zone
+
+Mowry
+
+4817’ — 4927’ Shale med-dark gray massive-lumpy. Blue/gray bentonite clay.
+
+Lithology of the bottom confining zone
+
+Swift
+
+5900’ — 6400’ Shale, dark gray to greenish gray, fine grained siltstone in parts, calcareous, waxy. Lower
+sections contain limestones, light gray-pinkish gray, fine-coarse grained, bioclasts, laminated in part.
+
+154 N- 102 W
+
+154 N- 101 W
+
+1/4 MILE RADIUS
+
+¥
+
+U. Sa Bo ON
+Gant aR —
+an we Nd eA wae
+
+153 N- 102
+
+File: Atlanta SWD.mxd
+GFast 7/26/12
+
+McKenzi
+
+
+Atlanta #1 SWD
+Sec 6-T153N-R101W
+Williams County, ND
+
+Statement of corrective action required for wells within the % mile area of review
+
+There are no existing wells within % mile of the proposed Atlanta #1 SWD. However, all fourteen
+producing wells drilled on the Atlanta pad will have identical cementing programs for their 7”
+intermediate casing. The cement will be pumped to the surface, and will provide complete coverage
+across the proposed Dakota injection interval.
+
+Atlanta #1 SWD
+Sec 6-T153N-R101W
+Williams County, ND
+
+Description of the proposed injection program
+
+Continental Resources proposes to drill and complete the Atlanta #1 SWD in the Dakota formation
+(5450’ — 5900’) in Sec 6-T153N-R101W of Williams County, ND. This SWD well will service the fourteen
+wells that will be drilled on the pad. Seven of the wells will be completed in the Bakken and seven of the
+
+wells will be completed in the Three Forks.
+
+The produced water will be cycled through 6 - 750 bbl tanks and filtered prior to being injected. The
+Atlanta #1 SWD will receive the produced water from a buried steel line connected to the disposal
+pumps. The facility will be equipped with emergency shutdown equipment and an automated callout
+
+system.
+
+APPLICATION FOR INJECTION - FORM 14
+
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+
+600 EAST BOULEVARD DEPT 405
+
+BISMARCK, ND 58505-0840
+
+SFN 18669 (08-2012)
+
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. PLEASE SUBMIT THE ORIGINAL AND TWO COPIES,
+
+APPROVAL MUST BE OBTAINED BEFORE WORK COMMENCES.
+
+Permit Type Injection Well Type Commercial SWD
+[_] Enhanced Recovery Saltwater Disposal [_] Gas Storage |_| Converted [v| Newly Drilled | [ | Yes No
+
+Operator Telephone Number Will Oil be Skimmed?
+Continental Resources, Inc 405-234-9000 Yes [_] No
+
+City State Zip Code
+Oklahoma Ci OK 73126
+
+Well Name and Number Field or Unit
+Atlanta #1 SWD Baker
+
+LOCATIONS
+
+260 F NL 432 F WL 6 153 N 101 W |Williams
+Bottom Hole Location Swi ee. Township Range County
+
+260 F NL 432 F WL 6 153. N | 101 W |Williams
+Geologic Name of Injection Zone Top Injection Interval
+Dakota 4927 Feet 5450 - 5900
+Geologic Name of Top Confining Zone Thickness Geologic Name of Bottom Confining Zone Thickness
+Mow 110 Feet |Swift 500
+Bottom Hole Fracture Pressure of the Top Confining Zone Gradient
+
+3950 Ps! 0.80
+Estimated Average Injection Rate and Pressure Estimated Maximum Injection Rate and Pressure
+8000 BPD @ 1000 PSI 10000 BPD @ 1300
+
+Geologic Name of Lowest Known Fresh Water Zone Depth to Base of Fresh Water Zone
+
+Fox Hills 1844
+Total Depth of Well (MD & TVD) Logs Previously Run on Well
+
+6100 Feet |N/A - well not drilled
+
+CASING, TUBING, AND PACKER DATA (Check [_]If Existing
+
+WEIGHT SACKS OF
+Lbs/Ft) SETTING DEPTH CEMENT TOP OF CEMENT | TOP DETERMINED BY
+
+Surface [vj | _9_5/8 pe | ace | FopOn |
+ETI 4 ine Uae eres) Sees (eer eae |e
+Long String ae 6100 at ay 1970
+a ee eee | ei tees) | Ps | (eee (a et,
+ie, Cae aa 6 ae! ae) Se ei
+TOP BOTTOM SACKS OF CEMENT
+ea 1 |S (ey ea) | pene ee (EES Pale:
+TYPE
+
+Proposed Packer Setting Depth Model Compression |__| Permanent
+5400 Feet Baker R3 DG | | Tension
+
+FOR STATE USE ONLY
+
+Permit Number and Well File Number
+YZ2535
+¢. Ca
+t QOES9L -2/- £8,
+dt,
+
+By ;
+Sve
+
+41/2 a | a | J-55 internally coated
+
+Title
+
+LA
+RAC PCROLIALD IA fats
+y, s OTY
+
+i
+ok
+
+SUPERVISOR
+
+
+Page 2
+SFN 18669 (08-2012)
+
+COMMENTS
+
+| hereby swear or affirm that the information provided is true, complete and correct as determined from all available records. ——— 7, 2012
+
+Signature Printed Name Title
+but Ctvne Don Kennedy Senior Production Engineer
+Above Signature Witnessed By
+Witness Printed Name Witness Title
+Robert Sandbo Regulatory Compliance Supervisor
+
+Witness Signature
+Instructions
+
+f
+
+1. Attach a list identifying all attachments.
+
+2. The operator, well name and number, field or unit, well location, and any other pertinent data shall coincide with the
+official records on file with the Commission. If it does not, an explanation shall be given.
+
+3. If an injection well is to be drilled, an Application for Permit to Drill - Form 1 (SFN 4615) shall also be completed and
+accompanied by a plat prepared by a registered surveyor and a drilling fee.
+
+4. Attach a lithologic description of the proposed injection zone and the top and bottom confining zones.
+
+5. Attach a plat depicting the area of review (1/4-mile radius) and detailing the location, well name, and operator of all
+wells in the area of review. Include: injection wells, producing wells, plugged wells, abandoned wells, drilling wells, dry
+holes, and water wells. The plat shall also depict faults, if known or suspected.
+
+6. Attach a description of the needed corrective action on wells penetrating the injection zone in the area of review.
+
+7. Attach a brief description of the proposed injection program.
+
+8. Attach a quantitative analysis from a state-certified laboratory of fresh water from the two nearest fresh water wells,
+Include legal descriptions.
+
+9. Attach a quantitative analysis from a state-certified laboratory of a representative sample of water to be injected.
+
+10. Attach a list identifying all source wells, including location.
+
+11. Attach a legal description of land ownership within the area of review. List ownership by tract or submit in plat form.
+
+12. Attach an affidavit of mailing certifying that all landowners within the area of review have been notified of the proposed
+injection well. This notice shall inform the landowners that comments or objections may be submitted to the
+Commission within 30 days, or that a hearing will be held at which comments or objections may be submitted,
+whichever is applicable. Include copies of letters sent.
+
+13. Attach all available logging and test data on the well which has not been previously submitted.
+
+14. Attach schematic drawings of the injection system including current well bore construction and proposed well bore and
+surface facility construction.
+
+15. Attach a Sundry Notice - Form 4 (SFN 5749) detailing the proposed procedure.
+
+16. Attach a diagram representing the traffic flow and the maximum number of trucks staged on site.
+
+17. Attach a printout of a map obtained at http:/www.nd.govw/gis/apps/HubExplorer/ with surficial aquifers (under
+hydrography) active, and proposed location plotted on printout.
+
+18. Read Section 43-02-05-04 of the North Dakota Administrative Code to ensure that this application is complete.
+
+19. The original and two copies of this application and attachments shall be filed with the Industrial Commission of North
+Dakota, Oil and Gas Division, 600 East Boulevard, Dept. 405, Bismarck, ND 58505-0840.
+
+ASTRO-CHEM LAB, INC.
+
+4102 2nd Ave. West Williston, North Dakota 58802-0972, Phone: (704) 372-7355
+P.O. Dox 972
+WATER ANALYSIS REPORT.
+
+SAMCLE NUMBER  W-1e-5987 DATE OF ANBLYSIS  8-8-1&
+
+COMPANY. Canbinental Reseurces, Inc.
+Crehy Oklahoma City STATE OK
+
+ents
+
+WELL, NAME AND/OR NUMBER 47th Bb. NW ~- Williston, ND
+
+arent aatnp nant Pa ee I ot op
+
+BA TE_RECELVED BP bis : DST. NUMBER
+
+LORATION NW NW GE SEC. 6 Th. (S53 RANGE [OlW COUNTY Williams
+
+ee eats stan
+
+FORMATION DEPTH
+
+DISTRIBUTION Terry Chapman
+
+= echt ESE PR TR TO I a
+RESISTIVITY @ 77°F = 4.970 Ohm-Metars pH = 7.56
+
+SPECIFIC GRAVITY B 778F = 1,000 HeS = Negative
+
+TOTAL DIGSOLVER SOLIDS (CALCULATED) = 1912 mo/e ¢ 1913 ppm}
+
+SODIUM CHLORIDE (CALCULATED? = 190 mg/L ¢ 10 ppm?
+
+CATION MEGSL. mg/L ANTON MEAL. mg/L
+serra ttopertnnenseegeeme tet tie TE RR I BT RT AT ET I OT I OTT nce rors
+CALE RUM 40 & 35 CHLORIDE Oa & &
+HAGNES TUPI 4.0 44 CARBONATE o.0 0
+00 DUM 14.7 338 BICARBONATE 17.8 1086
+TRON Oo. 0 a. 4 , SULFATE Te G aoe
+CHROMIUM a, 9 a.9 NITRATE 0.0 i)
+BARIUM 0.0 a, @
+PQJTASS TUM O82 &
+sa ececpererte pene nt paneer a RR I RT creer rr rr saree}
+WATER ANAL YS tS PATTERN
+Na,K 4.9 15 — _. 5 _. G 1.4 G1
+— a
+Ca 1.0 5 _ __ a oe _ 4a 1,0 HCD.
+
+1.0 90,
+
+Ng 1.0 4
+Fe Oo.) Oo . o.41 COs
+
+I
+MEQ/L.
+
+Bate paahas/om
+
+i
+
+REMBRKS Canductivity
+Sampled Ge-A-Lé
+
+fs
+
+BNALYZED BYs GE. Junpaeis
+
+pee teen aterm merit ae eee tani mnnnvy eee e memmmnnmin
+
+ASTRO-CHEM LAB, INC.
+
+Williston, North Dakota 58802-0972 - Phone: (701) 572-7355
+
+4102 2nd Ave. West
+P.O. Box 972
+
+WATER ANALYSIS REPORT
+
+eT Ltt as he Oe Rm Ba
+
+SAMPLE NUMBER W~Le-S356 DATE OF ANALYSIS Te LOe-Le
+COMPANY Cantinental Resources, Inc.
+
+CLTy Kilildeer STATE ND
+
+WELL. NAME AND/OR NUMBER  Mentpelier 1-14H (thee Forks)
+
+DATE RECEIVED  7-9-18 DST NUMBER
+
+SAMPLE SOURCE Treater
+
+LOCATION OF SEC. TWN RANGE COUNTY.
+
+SPECIFIC GRAVITY @ 7¥eF = 4.15% HaS = Negative
+
+TOTAL DISSOLVED SOLIDS (CALCULATED) = EG8505 my/l ¢ 20498 pom)
+
+SODTUM CHLORIDE (CALCULATED) = ESS71E mg/l ¢€ 264083 ppm
+
+CALCTUM 7aa, 0 L547 CHLGRIDE 403,09 1429485
+
+MAGNES T LIM 10d, 0 Liana CARBONATE O.0 0
+
+SODIUM S152.3 FIO ATCARGONATE 4a G eee
+
+TRON 3.6 G7. O . SULFRTE ine 7 129
+
+CHROM TUM a. 0,3 NITRATE oO. 0 0)
+
+BARIUM Oe xt Sf. 4
+
+PASTAS ILM 144, 3 S8OO
+
+WATER ANALYSIS PATTERN
+Na, KM 1Oo0oL Oo 3 _ 4 [OOO a Oi
+Ca 100,90 4 4 149 HOOs
+try 19.0 Le ; “a i240 80,
+ie 1.0 4 _ ¢) Oo 1 Cos
+|
+MER/L
+
+REMARKS Temperature = 1406
+
+ANALYZED BY: Gy tungels -
+
+fetes rrereerettn teeters PUT HM STOMP Sonneries gaceneten beta
+
+ASTRO-CHEM LAB, INC.
+
+Williston, North Dakota 58802-0972 Phone: (701) 572-7355
+
+4102 2nd Ave. West
+P.O. Box 972
+
+{th borernantt Senate cnabennns lense ptt ote astra irvanet Heapconams etm naa yee teM
+
+SAMELE NUMBER = WeLe-SG57 DATE OF ANALYSIS 7-10-12
+
+COBPANY Continental Resources, Inc.
+
+ites napa ates
+
+CITY Killdeer STATE ND
+
+WELL NAME AND/GR NUMBER Plano 1~2aH (Bakken)
+
+SAMPLE SOUREE Treater
+
+FORMAT ICN DEPTH
+
+DISTRIBUTION Distribution List
+
+ESISTIVITY 8 77°F = 0,039 Ohm-Meters pH= 6.00 ee
+SPECIFIC GRAVITY © V¥eF = 1,210 HeS = Negative
+
+TOTAL DISSOLVED SOLIDS (CALCULATED) = 309688 mg/L ( @58891 ppm
+
+SOOTUM CHLORIDE CCALCULATIED) = SOG43) mo € #55249 ppm)
+
+CALCIUM LOo00. 0 19840 CHLORIDE seta & Lasg3aoa
+
+MAGNES TUM 140. 0 1BSS CARBONATE O10 a
+
+SOD TUM 41. & F4 Goo BICARBONATE a. 0 Las
+
+TRON GO 111.06 SULFATE in 4 163
+
+CHROMIUM Oa d o,.8 NITRATE 10 oe)
+
+BAR TU O. & S4a &
+
+POTASSIUM 141.8 1419
+
+WATER ANALYSIS PATTERN
+
+Na, K iooo,0d 4 E LO00. 0 C1
+Ca 100,090 10 73 1.90 HOG.
+tay 19,0 14 _ 3 1.9 604
+Fe 1.06 86 1) o.1 Os,
+
+REMARKS Temperature = Toke
+
+rere Oe Tee Tester ani ners SON erent a meempreyt rere rrvenatg da PNA artit ferkunn peal Septet Here mesg HA LMA yrs Hy
+
+AFFIDAVIT
+
+Affiant: Don Kennedy
+Senior Production Engineer
+Continental Resources, Inc.
+PO Box 268870
+Oklahoma City, OK 73126
+
+Affiant on oath swears that the following statements are true:
+
+1. In accordance to NDIC rules, Continental Resources staff did a diligent search to
+find two fresh water wells located near the proposed Atlanta #1 SWD well.
+
+2. Continental Resources staff obtained legal descriptions and landowner names of
+possible domestic wells by researching the North Dakota State Water Commission
+website.
+
+3. Continental Resources field staff attempted to find the location of the wells found on
+the North Dakota State Water Commission website but were not able to find any
+existing fresh water wells in the legal descriptions obtained online.
+
+4. Continental Resources field staff did obtain a fresh water sample from one well
+located on lands within a 1.5 mile radius of the proposed Atlanta #1 SWD well
+location.
+
+5. Continental Resources field staff did a diligent field search within a 1.5 mile radius of
+the proposed Atlanta #1 SWD well location but was unable to find a second fresh
+water well to sample.
+
+Executed onthis § day of Sep teuber , 2012
+
+ax ik ae Lb
+Don Kennedy, Senior?Production Engineer
+
+Continental Resources, Inc.
+
+JURAT and ACKNOWLEDGMENT
+
+STATE OF OKLAHOMA )
+Liavtie(td 6b  )ss
+COUNTY OF OKLAHOMA )
+
+This instrument was subscribed, sworn to and acknowledged before me, the undersigned
+authority, on this_¢ day of L¥e vi01dshy Don Kennedy.
+
+“iy BA 7)
+i. ; s Pa, %,
+Notary Public z 3 S b oe
+$ an 7) b= :
+3 xp 2 a
+% PUBS =
+
+Atlanta #1 SWD
+Sec 6-T153N-R101W
+Williams County, ND
+
+Source wells are all Jocated on the Atlanta Pad in Sec 6-T153N-R101W, Williams County, ND
+Atlanta 1-6H
+
+Atlanta 2-6H
+
+Atlanta 3-6H
+
+Atlanta 4-6H
+
+Atlanta Federal 5-6H
+Atlanta Federal 6-6H
+Atlanta Federal 7-6H
+Atlanta Federal 8-6H
+Atlanta Federal 9-6H
+Atlanta Federal 10-6H
+Atlanta 11-6H
+Atlanta 12-6H
+Atlanta 13-6H
+
+Atlanta 14-6H
+
+Page 1 of 1
+
+Fried, Stephen J.
+
+From: Robert Sandbo [Robert.Sandbo@elr.com]
+Sent: Thursday, November 15, 2012 4:56 PM
+To: Fried, Stephen J.
+
+Subject: RE: Atlanta #1 SWD Information
+Stephen,
+
+In regards to 1 below, we did send notice to more than we were supposed to. What we did was actually
+send out notifications to all landowners within % mile of the entire pad and not just the location of the
+SWD well. Because of this, we notified close to % mile out from the SWD instead of the required % mile
+radius. | talked with our land operations coordinator Chad Newby and he stated that Wilbert & irene
+Koch were located outside of the % mile radius that we were required to notify but were located within
+a % mile of the outside boundary of the entire Atlanta pad.
+
+Please let me know if you need a map showing where they are located or if this email will suffice. Sorry
+if our over-notification caused any headaches.
+
+We are working on getting an updated diagram for the berm and should have it to you early next week.
+
+Thanks,
+
+Bob Sandbo
+
+Regulatory Compliance Supervisor
+Continental Resources, Inc.
+
+PO Box 268870
+
+Oklahoma City, OK 73126
+
+Phone 405-234-9020
+
+Fax 405-234-9562
+
+11/16/2012
+
+Lot 3R Black 2a
+Daniel & Angie Zi .O. 10; it 5
+ngi Zaborek P.O. Box 103 Williston, NO 58802 Rearrangement of lot 3 Block 2
+Southview Subdivision
+Therresa Christopherson P.O. Box 68
+
+Dashacashuc&® | P.O. Box 766 Sundance, WY 82729
+Brooks Custom Saddlery, Inc f 39565 RCR 37 Hayley, CO 81639
+
+a
+
+Clark 770 English Sparrow Trail Hightands Ranch, CO 80129
+
+Lot 4 R Block 1 of the
+Rearrangement of Lots 3 and 4
+Block 1 Berger First Subdivision
+
+Williston, ND 58802
+
+CFD with Wilbert F & Irene
+Kach 14057 47th lane NW,
+Williston, ND 58802
+
+Lot S Block 1 Berger First
+Subdivision
+
+Lot 3. R Block 1 of the
+Rearrangement of Lots 3 and 4
+Biock 1 Berger First Subdivision
+
+Lot 2 Block 1 Berger First
+Subdivision
+Lot 1R in Biock 1 of the
+Rearrangement of Lot Lin
+Block 1 of Berger First
+Subdivision
+
+Kali. & Tammy Beckman P.O. Box 4B1 Williston, ND $8802 Lat ar Block lof Lott Block 1
+Berger First Subdivision
+Joshua R & Heather L Hudson 14077 - 47th Lane NW Williston, ND S8802 Lot 2 Block 2 of Berger First
+Subdivision
+
+Lot 1R Block 5 of the
+Gaten E jr. & Cheryl Rearrangement of Block S
+Berger First Subdivision
+Lot 2R Block $ of the
+
+Rearrangement of Block 5
+
+Rory
+Berger First Subdivision
+B f Berger First
+Ronald A. & Joan M. Amundson 14090 - 47th LN NW Lot 303 Williston, ND 58802 hott eet’ ' fo
+
+14056 - 48th St NW Williston, ND $8801
+
+Larry G & Barbara L
+
+Harshbarger P.0.Box 1086 Williston, ND 58802
+
+Harshbarger 14078 - 47th Lane NW Williston, ND 58801
+
+Lot 7 Block 3 Berger First
+Larry G & Julieann M. Korner 4740 - 14ist Ave NW Williston, ND 58804 ° ° tot 8
+Subdivision
+1513 South 12th St. 153-101 SEC 6: Part of Lots 3,2
+A Ce f Engi i ,
+rmy Corps of Engineers Po ATTN: Sam Werner Bismarck, ND 58504 and 5
+. 1S3-101 SEC 6: Part of Lots 1,2
+BNSF Railway fs 2650 Lou Menk Drive Forrt Worth, TX 76131-2830 and 5
+154-101 SEC 31: Lot 5 EX
+P.O. Box 2306 Williston, ND 58802 °
+deeded parts
+
+City of Williston
+
+
+BEFORE THE INDUSTRIAL COMMISSION, OIL AND GAS BOARD,
+OF THE STATE OF NORTH DAKOTA
+
+AFFIDAVIT OF NOTIFICATION
+
+IN RE THE APPLICATION OF CONTINENTAL RESOURCES, INC
+
+FOR HEARING OF ITS REQUEST FOR A UIC PERMIT TO
+COMPLETE AN INJECTION WELL IN THE NW NW OF SEC. 6, T1S3N RLOLW,
+
+WILLIAMS COUNTY, NORTH DAKOTA
+DATE: August 6, 2012
+
+State of Oklahoma __)
+)ss
+County of Oklahoma _)
+
+Don Kennedy, deposes and says:
+
+That notice advising of Continental Resources, Inc.’s application for UIC permit in the
+captioned matter, in the form attached, was mailed to the owners of record within the area of
+review at the addresses shown in the exhibit attached to the Notice, by mailing true copy thereof
+this 6" day of August 2012, postage prepaid, First Class Mail. This affidavit is given as
+evidence of compliance with Administrative Code, NDIC 43.02.05.04.
+
+Don et La Sr. Lome —— Engineer
+Continental Resources, Inc.
+
+Subscribed and sworn to before me this Et day of August 2012
+
+Notary Pu Mtihy Mittra,
+
+Commission Number /(O0 L023
+My Commission Expires TP L201.
+sve tteePelayy
+
+BARA
+he Ms 2
+
+
+Allen D. & Melanie R. Gardner
+4848 Hwy 85 Lot 311
+Williston, ND 58801
+
+Mark A. & Marcia K. Benway
+607 - 4th St West
+Williston, ND 58801
+
+John S. & Caro] A. Monson
+14057 Southview St
+Williston, ND 58801
+
+Richard D. & Kathyrn Ryan
+120 West 8th St
+Williston, ND 58801
+
+Ryan Mays
+1923 - 6th Ct W
+Williston, ND 58801
+
+fron Branch Development, LLC
+335 Spokan Ave
+Whitefish, MT 59937
+
+Jason & Jessica Dusseault
+202 Whisper Lane
+Grand Junction, CO 81503
+
+Daniel & Angie Zaborek
+P.O, Box 103
+Williston, ND 58802
+
+Therresa Christopherson
+P.O. Box 68
+Williston, ND 58802
+
+Dash 4 Cash, LLC
+P.O. Box 766
+Sundance, WY 82729
+
+Brooks Custom Saddlery, Inc
+39565 RCR 37
+Hayley, CO 81639
+
+Certificate of Mailing
+
+[ hereby certify that on August 6, 2012, I placed the above Certificate of Notification in the
+United States mail postage paid and properly addressed to the following:
+
+Anita J & Brett M Williamson
+PO Box 2037
+Williston, ND 58802
+
+David J. & Jennifer L. Smith
+14066 Southview St
+Williston, ND 58801
+
+Wes & Jennifer Sumners
+4823 Southview Lane
+Williston, ND 58801
+
+Jon A. Larvick
+8378 Flintrock Drive
+Frisco, TX 75034
+
+Nenow Holdings LLC
+14962 - 22nd St NW
+Alexander, ND 58831
+
+J ason R. & Sara D, Shamsie
+817 - 8th Ave West
+Williston, ND 58801
+
+Gibb Realty, LLP
+P.O. Box 10188
+Fargo, ND 58103
+
+Gibb Realty, LLP
+10600 NE 189th St
+Battle Ground WA, 98604
+
+Derek Huegel
+10600 NE 189th St
+Battle Ground WA, 98604
+
+Brian Aamodt
+14073 - 48th St NW Lot 22
+Williston, ND 58801
+
+D&S Factors, LLC
+P.O. Box 1210
+Fruitland, ID 83619
+
+Darin F. & Kristin M. Wendt
+4910 Southview LN
+Williston, ND 58801
+
+Danea Zaste
+14073 - 48th St NW Lot 6
+Williston, ND 58801
+
+David I. & Betty L. Rod
+14064 Southview St
+Williston, ND 58801
+
+William Curtis & Lori S. Small
+14063- 48th St NW
+Williston, ND 58801
+
+Justin E. Grimmer & Mckayla M. Johnson
+14069 - 48th St NW
+Williston, ND 58801
+
+C & D Angell's Trimwork, INC
+16484 - 149th St, Suite 103
+Big Lake, MN 55309
+
+Vance M, & Darci L. Grindheim
+1401 West 6th Ave
+Williston, ND 58801
+
+Matti K. & Susan V. Tarnanen
+510 Ibarra Ave NE
+Buffalo, MN 55313
+
+Don E. & Sandy L Leiseth
+14058 Southview St
+Williston, ND 58801
+
+Steven & Chelsie Black
+14058 Southview St
+Williston, ND 58801
+
+LAADUOMERS WETHTAf/y mZcE OF
+PRUESED ATLZAATA &/( Sto
+
+__ land Description.
+
+fee as) 2 | S| Se ee ee
+154N-101W SEC 31; A parcel of
+land in SWSWSW (Lot 10) MFD
+Williamson P.O. Box 2037 Williston, ND 58802 in Document #720523
+Containing 5.0 acres more or
+
+Brett M & Anita J
+
+less
+
+Lot 1R Block 3 of
+' rearrangement of Lots
+Williamson P.O, Box 2037 Williston, ND 58802 19,20,21 Block 3 Southview
+Subdivision
+Lots 17,18,19,20,21 and 22
+Smith Block 4 of southview
+Subdivision
+Lots 11,12,13,14,15 and 16
+Wes & Jennifer 4823 Southview Lane Williston, ND S8801 Block 4 of Southview
+Contract for deed from
+2 ‘ P Nenow Holdings, LLC, 14962
+Jon A Larvick 8378 Flintrock Drive Frisco, TX 75034 Lots 1,2,3/4,5,6,7,8,9 and 10 } 22nd St NW, Alexander, ND
+Block 4 Southview Subdivision 58831
+
+Block 3 of
+Jason R And Sara D 817 8th Ave West Williston, ND 58801 ste igd Sacge : ‘,
+Southview Subdivision
+Lots 7 and 9 Block 3 of
+Lots 7 and 9 Block 3 of
+Gibb Realty, LLP 10600 NE 189th ST Battle Ground WA, 98604 Sgr he
+Southview Subdision
+Lot 8 Block 3 of southview
+Huegel 10600 NE 189th ST Battle Ground WA, 98604 ‘: ee
+Subdivision
+Lots 10 and 11 Block 3 of
+Aamodt 14073 - 48th St NW Lot 22 Williston, ND 58802 teeted
+Southview Subdivision
+Lot 12 Block 3 of Southview
+D&S Factors, LLC P.O. Box 1210 Fruitland, ID 83619 Ba eee
+Subdivision
+Lots 13,14,15 and 16 Block 3 of
+Darin F and Kristin M Wendt 4910 Southview LN Williston, ND 58801 SLY Sane Mes
+Southview Subdivision
+Lots 17 & 18 Block 3 of
+Danea Zaste 14073 - 48th St NW Lot 6 Williston, ND 58801 at tts R
+Southview Subdivision
+
+Lot 2R Block 3 of
+~ . Rearrangement of Lots
+David | & Betty L. 14064 Southview St Williston, ND 58801 19,20,21 in Block 3 of
+Southview Subdivision
+Lots 22,23,27 and 28 Block 3
+William Curtis And Lori S. Small 14063- 48th St NW Williston, ND 58801 se epee eat
+Southview Subdivision
+Justin E Grimmer & Mckayla M. ‘ Lots 24,25,26 Block 3 of
+Nene ie al 14069- 48th St NW Williston, ND 58801 South viewastaneion
+
+Brett M & Anita J
+
+14066 Southview ST Williston, ND 58801
+
+David J & Jennifer L
+
+Lots 3,4,5 Block 5 Southvi
+C & D Angel's Trimwork, INC 16484 - 149th ST, Suite 103 Big Lake, MN 55309 g! Seat ee,
+Subdivision
+U K 5 Southview
+Vance M & Darci L. 1401 West 6th Ave Williston, ND 58802 ete Back seoutiwie
+Subdivision
+k 5 of Southview
+Matti K & Susan V. Tarnanen 510 |barra Ave NE Buffalo, MN 55313 sack ee 2 , ante
+Subdivision
+Lots 1,2,3,4,5,6,8,9,10 Block 7
+Don E & Sandy L Leiseth 14058 Southview St Williston, ND 58802 ase =
+Southview Subdivision
+lock 7 of Southview
+Steven & Chelsie 14058 Southview St Williston, ND 58801 bet 7 ioe ee
+Subdivision
+: t Land N1/2 Lot 3 Block 6
+Allen D & Melanie R Gardner 4848 Hwy 85 Lot 312 Williston, ND 58802 Let Thne Bape Bese
+Southview Subdivision
+Lots 2,4 and 6 Block 6
+
+Benway 607 - 4th St West
+Southview Subdivision
+
+Lot 5 Lot 3 Block 6
+John § & Carol A 14057 Southview St Williston, ND 58801 pa qn SU UNS Hes
+Southview Subdivision
+- Lots 1 & 2 Block 2 Mountain
+Richard D & Kathyrn 120 West 8th St Williston, ND 58801 River Subdivision
+
+R 120 West 8th St Williston, ND 58801 Eats REDE
+var ee pts Rearrangement of lot 3 Block 2
+Southview Subdivision
+
+Lot 3 Block 2 Mountain Ri
+Ryan Mays 1923 - 16th CTW Williston, ND 58801 tS es. 4g
+Subdivision
+
+335 Spokan Ave Whitefish, MT 59937 Lots 1,2,3,4,and 5 Block 1
+Mountain River Subdivision
+
+Contract for deed from
+Nenow Holdings, LLC, 14962
+22nd St NW, Alexander, ND
+58831
+
+Mark A & Marcia K Williston, ND 58801
+
+Richard D & Kathyrn
+
+tron Branch Development, LLC
+
+Lot 2R Block 2a
+Rearrangement of lot 3 Block 2
+Southview Subdivision
+
+Grand Junction, CO 81503
+
+Jason & Jessica 202 Whisper Lane
+
+
+BNSF Railway
+2650 Lou Menk Drive
+Fort Worth, TX 76131-2830
+
+City of Williston
+P.O. Box 1306
+Williston, ND 58802
+
+py
+
+Don Kennedy
+Sr. Production Engineer
+Continental Resources
+
+Wilbert F & Irene Koch
+14057 - 47th Lane NW
+Williston, ND 58801
+
+Richard A. & Holy S. Webster
+14056 - 48th St NW
+Williston, ND 58801
+
+Midge Davis
+P.O. Box 462
+Williston, ND 58802
+
+Larry G. & Barbara L. Clark
+770 English Sparrow Trail
+Highlands Ranch, CO 80129
+
+Kal J. & Tammy Beckman
+P.O. Box 481
+Williston, ND 58802
+
+Joshua R. & Heather L. Hudson
+14077 - 47th Lane NW
+Williston, ND 58801
+
+Galen E. Jr. & Cheryl Harshbarger
+P.O.Box 1086
+Williston, ND 58802
+
+Rory Harshbarger
+14078 - 47th Lane NW
+Williston, ND 58801
+
+Ronald A. & Joan M. Amundson
+14090 - 47th LN NW Lot 303
+Williston, ND 58801
+
+Larry G. & Julieann M. Korner
+4740 - 141st Ave NW
+Williston, ND 58801
+
+U.S. Army Corps of Engineers
+ATTN: Sam Werner
+
+1513 South 12th St
+
+Bismarck, ND 58504
+
+A
+
+Continental
+
+RES O UR € £ §
+
+August 6, 2012
+
+David J. & Jennifer L. Smith
+14066 Southview St
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. and Mrs. Smith;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+RLO1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that David J. & Jennifer L. Smith own the following tracts of land: Lots 17, 18, 19, 20, 21 and
+22 Block 4 of southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don besneety
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N, Robinson » Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+é
+
+Continental
+
+RES O PRC @
+
+August 6, 2012
+
+Wes & Jennifer Sumners
+4823 Southview Lane
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. and Mrs. Sumners;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD asa Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Wes & Jennifer Sumners own the following tracts of land: Lots 11, 12, 13, 14, 15 and 16
+Block 4 of Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don (we é
+Don Kennedy
+
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N, Robinson * Okiahoma City, OK 73126
+Voice (405) 234-9000 « Fax (405) 234-9253
+
+A
+
+Continental
+
+FESO @ R €£ E'S
+
+August 6, 2012
+
+Brett M. & Anita J. Williamson
+P.O, Box 2037
+Williston, ND 58802
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr, and Mrs. Williamson;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R1O1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Brett M. & Anita J. Williamson own the following tracts of land; Lot 1 R Block 3 of
+rearrangement of Lots 19, 20, and 21 Block 3 Southview Subdivision and a parcel of land in
+SWSWSW (Lot 10) MFD T154N-R101W SEC 31 in Document #720523 Containing 5.0 acres more
+or less.
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+Don Kennedy
+
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N. Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 - Fax (405) 234-9253
+
+A
+
+Continental
+
+RE SOU We £8
+
+August 6, 2012
+
+Jon A. Larvick
+8378 Flintrock Drive
+Frisco, TX 75034
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr, Larvick;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260° FNL & 432° FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Jon A. Larvick owns the following tracts of land: Lots 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10 Block
+4 Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don Kennedy,
+Sr. Productioh Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N. Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+é
+
+Continental
+
+RES! Weer, Se B.S
+
+August 6, 2012
+
+Jason R. & Sara D. Shamsie
+817 - 8th Ave West
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. and Mrs. Shamsie;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Jason R. & Sara D. Shamsie own the following tracts of land: Lots 5 and 6 Block 3 of
+Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 « 20 N. Robinson +» Oklahoma City, OK 73126
+Voice (405) 234-9000 » Fax (405) 234-9253
+
+Continental
+
+© EF SQ BDitee&
+
+August 6, 2012
+
+Nenow Holdings LLC
+14962 - 22nd St NW
+Alexander, ND 58831
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Sir or Madam;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R1O1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Nenow Holdings LLC owns the following tracts of land: Lots 1, 2, 3, 4, 5, 6, 7, 8, 9 and
+10 Block 4 Southview Subdivision and Lots 2, 4 and 6 of Block 6 of Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a “4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+Dont Ces
+Don Kenned
+
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N, Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+é
+
+Continental
+
+ROE aa Qe Re eB: &
+
+August 6, 2012
+
+Gibb Realty, LLP
+10600 NE 189th St
+Battle Ground WA, 98604
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Sir or Madam;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location, However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Gibb Realty, LLP owns the following tracts of land: Lots 7 and 9 Block 3 of Southview
+Subdision.
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Ninbieaid
+
+Don Kennedy
+Sr. Production Engineer
+
+CC; North Dakota Industrial Commission
+
+P.O, Box 268870 20 N. Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+BG WS 16) Uh oR ee 'B
+
+August 6, 2012
+
+Gibb Realty, LLP
+P.O. Box 10188
+Fargo, ND 58103
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Sir or Madam;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450° —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+RIOLW in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Gibb Realty, LLP owns the following tracts of land: Lots 7 and 9 Block 3 of Southview
+Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N. Robinson » Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+Continental
+
+RoE: Sue Wi eb se Bog
+
+August 6, 2012
+
+Darin F. & Kristin M. Wendt
+4910 Southview LN
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr, and Mrs. Wendt:
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260° FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Darin F, & Kristin M. Wendt own the following tracts of land: Lots 13, 14, 15 and 16
+Block 3 of Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Den (ane
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N, Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 « Fax (405) 234-9253
+
+Continental
+
+RESOURCES
+
+August 6, 2012
+
+D&S Factors, LLC
+P.O, Box 1210
+Fruitland, ID 83619
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Sir or Madam;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900". The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432” FWL of Sec 6-T153N-
+R1O1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installi ng a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that D & S Factors, LLC owns the following tracts of land: Lot 12 Block 3 of Southview
+Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dor Kenn.
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N. Robinson » Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+Continental
+
+RES @ U RF € ES
+
+August 6, 2012
+
+Brian Aamodt
+14073 - 48th St NW Lot 22
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. Aamodt;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432° FWL of Sec 6-T153N-
+RIOLW in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Brian Aamodt owns the following tracts of land: Lots 10 and 11 Block 3 of Southview
+Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a '4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dent
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 « 20 N. Robinson + Okidhoma City, OK 73126
+Voice (405) 234-9000 » Fax (405) 234-9253
+
+A
+
+Continental
+
+RE S OY ike £
+
+August 6, 2012
+
+Derek Huegel
+10600 NE 189th St
+Battle Ground WA, 98604
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. Huegel;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+RI1O1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Derek Huegel owns the following tracts of land: Lot 8 Block 3 of southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Den
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N, Robinson « Oklahoma City, OK 73126
+Voice (405) 234-9000 * Fax (405) 234-9253
+
+A
+
+Continental
+
+FES OURCE
+
+August 6, 2012
+
+Danea Zaste
+14073 - 48th St NW Lot 6
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Ms. Zaste;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Danea Zaste owns the following tracts of land: Lots 17 & 18 Block 3 of Southview
+Subdivision,
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dow
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20'N. Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+Continental
+
+PoP SO UU RG & S
+
+August 6, 2012
+
+William Curtis & Lori S. Small
+14063- 48th St NW
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr, and Mrs. Small;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T1 53N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that William Curtis & Lori S.Small own the following tracts of land: Lots 22, 23, 27 and 28
+Block 3 of Southview Subdivision,
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well,
+
+Sincerely,
+
+Dia Moris
+
+Don Kennedy
+Sr. Production Engineer
+
+CC; North Dakota Industrial Commission
+
+P.O, Box 268870 « 20 N, Robinson « Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RE AS CeO Be ss
+
+August 6, 2012
+
+Justin E. Grimmer & Mckayla M. Johnson
+14069 - 48th St NW
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. and Mrs. Johnson;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R1O1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Justin E. Grimmer & Mckayla M. Johnson own the following tracts of land: Lots 24, 25,
+26 Block 3 of Southview Subdivision,
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well,
+
+Sincerely,
+
+Don Kenae
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 - 20.N, Robinson « Oklahorna City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RES Ow Peres
+
+August 6, 2012
+
+David I. & Betty L. Rod
+14064 Southview St
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr, and Mrs. Rod:
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD asa Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900”. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432° FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location, However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that David I. & Betty L.Rod own the following tracts of land: Lot 2R Block 3 of
+Rearrangement of Lots 19, 20, 21 in Block 3 of Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a '% mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don [Cenmaly
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N, Robinson * Okiahoma City, OK 73126
+Voice (405) 234-9000 « Fax (A405) 234-9253
+
+Continental
+
+RES SBR CE Ss
+
+August 6, 2012
+
+C & D Angell's Trimwork, INC
+16484 - 149th St, Suite 103
+Big Lake, MN 55309
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Sir or Madam:
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T1 53N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location, However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investi gation of ownership of surface landowners within the area of review, it
+appears that C & D Angell's Trimwork, Inc owns the following tracts of land: Lots 3, 4, and 5 Block 5
+Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dov keemaby
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N. Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+é
+
+Continental
+
+ES Oo RF Coes
+
+August 6, 2012
+
+Don E. & Sandy L Leiseth
+14058 Southview St
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. and Mrs. Leiseth;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900°. The Atlanta #1 SWD is proposed at the location of 260° FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota,
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location, However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Don E. & Sandy L. Leiseth own the following tracts of land: Lots 1, 2, 3, 4, 5, 6, 8, 9, 10
+Block 7 Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a “4 mile radius of
+the proposed Atlanta #1 SWD well,
+
+Sincerely,
+
+Dom [lmssuby
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 « 20 N. Robinson « Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RESOURCES
+
+August 6, 2012
+
+Vance M. & Darci L. Grindheim
+1401 West 6th Ave
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD asa Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. and Mrs. Grindheim;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T 53N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Vance M. & Darci L.Grindheim own the following tracts of land: Lot 2 Block 5
+Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don lanl
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N. Robinson « Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+PE SO UW ®@ CES
+
+August 6, 2012
+
+Matti K. & Susan V. Tarnanen
+510 Ibarra Ave NE
+Buffalo, MN 55313
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta ##1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. and Mrs. Tarnanen;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900°. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R1O1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Matti K. & Susan V. Tarnanen own the following tracts of land: Lot | Block 5 of
+Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a Y% mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don |.
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N. Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+é
+
+Continental
+
+RESOURCES
+
+August 6, 2012
+
+Steven & Chelsie Black
+14058 Southview St
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. and Mrs. Black:
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Steven & Chelsie Black own the following tracts of land: Lot 7 Block 7 of Southview
+Subdivision,
+
+These tracts of land are considered to be within the area of review, which is within a Y mile radius of
+the proposed Atlanta #1 SWD well,
+
+Sincerely,
+
+Dow Lares
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N, Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 « Fax (405) 234-9253
+
+A
+
+Continental
+
+RE SS GU Boe Es
+
+August 6, 2012
+
+Mark A. & Marcia K. Benway
+607 - 4th St West
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. and Mrs. Benway;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R1O1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location, However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Mark A. & Marcia K. Benway own the following tracts of land: Lots 2, 4 and 6 of Block
+6 Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Den fe
+
+Don Kennedy
+Sr. Production Engineer
+
+CC; North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N. Robinson * Oklahoma City, OK 73126
+Voice (405) 234-9000 « Fax (405) 234-9253
+
+Continental
+
+RES OF YU RT E
+
+August 6, 2012
+
+John S. & Carol A. Monson
+14057 Southview St
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. and Mrs. Monson;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNI. & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that John S. & Carol A. Monson own the following tracts of land: Lot 5 and $1/2 Lot 3 of
+Block 6 Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a “4 mile radius of
+the proposed Atlanta #1 SWD well,
+
+Sincerely,
+
+Den Femeoly
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N. Robinson « Oklahoma City, OK 73126
+Voice (405) 234-9000 « Fax (405) 234-9253
+
+A
+
+Continental
+
+ges OD RF CB us
+
+August 6, 2012
+
+Allen D, & Melanie R. Gardner
+4848 Hwy 85 Lot 311
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. and Mrs. Gardner;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260° FNL & 432” FWL of Sec 6-T153N-
+RIOLW in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Allen D. & Melanie R. Gardner own the following tracts of land: Lot 1 and N1/2. of Lot
+3 Block 6 Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dou
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N, Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+Continental
+
+SO) Lh’ RK Be EF s
+
+August 6, 2012
+
+Ryan Mays
+1923 - 16th Ct W
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. Mays;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that RyanMays owns the following tracts of land: Lot 3 Block 2 Mountain River Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box.268870 + 20.N. Robinson » Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+Continental
+
+RES © ff f CF §
+
+August 6, 2012
+
+Richard D, & Kathyrn Ryan
+120 West 8th St
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. and Mrs. Ryan;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432° FWL of Sec 6-T153N-
+RIOLW in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Richard D. & Kathyrn Ryan own the following tracts of land: Lots 1 & 2 Block 2
+
+Mountain River Subdivision and Lot 1 R Block 2a Rearrangement of Lot 3 Block 2 Southview
+Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Deon [Lene
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N. Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+Continental
+
+Re SO B® GE's
+
+August 6, 2012
+
+Jason & Jessica Dusseault
+202 Whisper Lane
+Grand Junction, CO 81503
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. and Mrs. Dusseault;
+
+This letter will hereby set forth Continental Resources? intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260" FNL & 432’ FWL of Sec 6-T153N-
+R1O1W in Williams County, North Dakota,
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Jason & Jessica Dusseault own the following tracts of land: Lot 2R Block 2 a
+Rearrangement of lot 3 Block 2 Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a '4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don Kennedy
+Sr. Production Engineer
+
+CC; North Dakota Industrial Commission
+
+P.O. Box 268870 + 20.N, Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+Continental
+
+BE 3S) Gh UW Roe Es
+
+August 6, 2012
+
+Iron Branch Development, LLC
+335 Spokan Ave
+Whitefish, MT 59937
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Sir or Madam;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota,
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Iron Branch Development, LLC owns the following tracts of land: Lots 1, 2, 3, 4,and 5
+Block 1 Mountain River Subdivision,
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don Kemal,
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N. Robinson « Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RES OR CG Es
+
+August 6, 2012
+
+Daniel & Angie Zaborek
+P.O. Box 103
+Williston, ND 58802
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. and Mrs. Zaborek;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260° FNL & 432’ FWL of Sec 6-T153N-
+RIOLW in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Daniel & Angie Zaborek own the following tracts of land: Lot 3R Block 2 a
+Rearrangement of lot 3 Block 2 Southview Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don [:
+
+Don Kennedy
+Sr. Production Engineer
+
+CC; North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N. Robinson « Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RES. WU Ree £ Ss
+
+August 6, 2012
+
+Dash 4 Cash, LLC
+P.O. Box 766
+Sundance, WY 82729
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Sir or Madam;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Dash 4 Cash, LLC owns the following tracts of land: Lot 5 Block 1 Berger First
+Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dorr errs
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N. Robinson « Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RES O UR Cc Bos
+
+August 6, 2012
+
+Therresa Christopherson
+P.O, Box 68
+Williston, ND 58802
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Ms. Christopherson;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location, However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Therresa Christopherson owns the following tracts of land: Lot 4 R Block 1 of the
+
+Rearrangement of Lots 3 and 4 Block 1 Berger First Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don Kennedy
+Sr. Production Engineer
+
+CC; North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N, Robinson « Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+FES OU mC BS
+
+August 6, 2012
+
+Brooks Custom Saddlery, Inc
+39565 RCR 37
+Hayley, CO 81639
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Sir or Madam;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Brooks Custom Saddlery, Inc owns the following tracts of land: Lot 5 Block 1 Berger
+First Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a '% mile radius of
+the proposed Atlanta #1 SWD well,
+
+Sincerely,
+
+Don Cer
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N, Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RES Oe. BR Ge ES
+
+August 6, 2012
+
+Wilbert F & Irene Koch
+14057 - 47th Lane NW
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. and Mrs. Koch;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900". The Atlanta #1 SWD is proposed at the location of 260° FNL & 432° FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Wilbert F. & Irene Koch own the following tracts of land: Lot 5 Block | Berger First
+Subdivision,
+
+These tracts of land are considered to be within the area of review, which is within a “4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+et
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N. Robinson + Oklahoma Clty, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RBS So ob RE EOS
+
+August 6, 2012
+
+Midge Davis
+P.O. Box 462
+Williston, ND 58802
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Ms. Davis;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900", The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R1LOIW in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Midge Davis owns the following tracts of land: Lot 2 Block 1 Berger First Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don [len
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P,Q, Box 268870 + 20 N, Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RE &O. UO Ry Ge '& «Ss
+
+August 6, 2012
+
+Richard A, & Holy S. Webster
+14056 - 48th St NW
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. and Mrs. Webster;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432° FWL of Sec 6-T153N-
+RLO1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location, However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Richard A. & Holy S.Webster own the following tracts of land: Lot 3 R Block 1 of the
+Rearrangement of Lots 3 and 4 Block | Berger First Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dorr (Cera
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N. Robinson + Oklahoma City, OK 73126
+Voice (408) 234-9000 + Fax (405) 234-9253
+
+Continental
+
+RE SOU BG 'E 'S
+
+August 6, 2012
+
+Larry G. & Barbara L. Clark
+770 English Sparrow Trail
+Highlands Ranch, CO 80129
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr, and Mrs. Clark;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101 W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location, However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Larry G. & Barbara L. Clark own the following tracts of land: Lot 1R in Block 1 of the
+Rearrangement of Lot 1 in Block | of Berger First Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a 4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N. Robinson » Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RES O Wit Bs
+
+August 6, 2012
+
+Kal J. & Tammy Beckman
+P.O. Box 481
+Williston, ND 58802
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. and Mrs. Beckman;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432” FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Kal J. & Tammy Beckman own the following tracts of land: Lot 2R Block 1 of Lot 1
+Block | Berger First Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a '4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dow [Lena b
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N. Robinson « Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RER OU ROU Ss
+
+August 6, 2012
+
+Joshua R. & Heather L. Hudson
+14077 - 47th Lane NW
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. and Mrs. Hudson;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Joshua R. & Heather L.Hudson own the following tracts of land: Lot 2 Block 2 of Berger
+First Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a '4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dew [Cen b,
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N, Robinson * Oklahoma City, OK 73126
+Voice (405) 234-9000 - Fax (405) 234-9253
+
+A
+
+Continental
+
+Roe S Meu EUS
+
+August 6, 2012
+
+Rory Harshbarger
+14078 - 47th Lane NW
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. Harshbarger;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’, The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R1O1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Rory Harshbarger owns the following tracts of land: Lot 2R Block 5 of the
+Rearrangement of Block 5 Berger First Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a “4 mile radius of
+the proposed Atlanta #1 SWD well,
+
+Sincerely,
+
+Deon (Lew
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N, Rabinson * Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RES OUR CC E'S
+
+August 6, 2012
+
+Galen E. Jr. & Cheryl Harshbarger
+P.O.Box 1086
+Williston, ND 58802
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr, and Mrs. Harshbarger;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101 W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Galen E. Jr, & Cheryl Harshbarger own the following tracts of land: Lot 1R Block 5 of
+the Rearrangement of Block 5 Berger First Subdivision,
+
+These tracts of land are considered to be within the area of review, which is within a “4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+Don (Cen.
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N, Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RUB SG) RG B.'s
+
+August 6, 2012
+
+Larry G, & Julieann M. Korner
+4740 - 141st Ave NW
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Mr. and Mrs. Korner;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101 W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Larry G. & Julieann M. Korner own the following tracts of land: Lot 7 Block 3 Berger
+First Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a '4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dew fen by
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 « 20 N, Robinson * Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+SF UR CFs
+
+August 6, 2012
+
+BNSF Railway
+2650 Lou Menk Drive
+Fort Worth, TX 76131-2830
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900’
+
+Dear Sir or Madam;
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD asa Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+
+5900’. The Atlanta #1 SWD is proposed at the location of 260° FNL & 432’ FWL of Sec 6-T153N-
+R1O1LW in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location, However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that BNSF Railway owns the following tracts of land: 153-101 SEC 6: Part of Lots 1,2 and 5,
+
+These tracts of land are considered to be within the area of review, which is within a / mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 « 20 N. Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (A405) 234-9253
+
+A
+
+Continental
+
+PES O WD & € ES
+
+August 6, 2012
+
+U.S. Army Corps of Engineers
+ATTN: Sam Werner
+
+1513 South 12th St
+
+Bismarck, ND 58504
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr. Werner;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432° FWL of Sec 6-T153N-
+R101W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter.
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that U.S. Army Corps of Engineers owns the following tracts of land: 153-101 SEC 6: Part of
+Lots 1, 2 and 5.
+
+These tracts of land are considered to be within the area of review, which is within a % mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Don [lore lb,
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N, Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+A
+
+Continental
+
+RE f @ Ue CES
+
+August 6, 2012
+
+Ronald A, & Joan M. Amundson
+14090 - 47th LN NW Lot 303
+Williston, ND 58801
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Mr, and Mrs. Amundson;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432° FWL of Sec 6-T153N-
+R1O1W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that Ronald A. & Joan M. Amundson own the following tracts of land: Lot 1 Block 3 of
+Berger First Subdivision.
+
+These tracts of land are considered to be within the area of review, which is within a “4 mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Dom Kennel,
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O, Box 268870 + 20 N. Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 + Fax (405) 234-9253
+
+Atlanta #1 SWD
+Sec 6-T153N-R101W
+Williams County, ND
+
+Continental Resources will submit all logging and test data to the NDIC for the Atlanta #1 SWD after the
+well has been drilled and completed. No data exists at the time of this application.
+
+Atlanta #1 SWD
+Sec 6-T153N-R101W
+Williams County, ND
+
+Proposed Wellbore
+
+A Ky PA 13 3/8" 48# csg set at ~ 500'
+
+95/8" 36# J-55 STC csg set at ~ 1,970'
+
+7" 26# L-80 LTC csg TOC at ~ 1,970'
+
+41/2" 11.6" J-55 LTC internally coated tbg
+
+Baker R3 DG injection packer
+
+7" 26# L-80 LTC csg set at * 6,100'
+
+. Drill & complete Atlanta #1 SWD
+
+. Construct SWD facility
+
+. Perforate the Dakota formation within the interval 4927' - 5900"
+. Acidize the Dakota
+
+. RIH with Baker R3 DG inj packer and set 50' above top perf
+
+. TIH with 4.5" 11.6# internall coated tbg and land in packer
+
+. Nipple up wellhead and perform MIT
+
+. Start injection
+
+Proposed Operations:
+
+ON DO PWD
+
+CONTINENTAL RESOURCES INC.
+1/4 MILE RADIUS MAP
+
+ATLANTA NO. 1 SWD
+SECTION 6, T153N, RIOLW
+WILLIAMS COUNTY, NORTH DAKOTA
+
+
+A
+
+Continental
+
+gE, 2) Wo Eo &
+
+August 6, 2012
+
+City of Williston
+P.O. Box 1306
+Williston, ND 58802
+
+Re: Certification of Notification that Continental Resources intends to drill and equip the proposed
+Atlanta #1 SWD as a Salt Water Disposal Well in the Dakota Formation at the approximate depth of
+5450’ — 5900”
+
+Dear Sir or Madam;
+
+This letter will hereby set forth Continental Resources’ intention to drill and complete the Atlanta #1
+SWD as a Salt Water Disposal Well in the Dakota formation at an approximate depth of 5450’ —
+5900’. The Atlanta #1 SWD is proposed at the location of 260’ FNL & 432’ FWL of Sec 6-T153N-
+R101 W in Williams County, North Dakota.
+
+No response is needed if you have no objection to Continental Resources installing a Salt Water
+Disposal Well at this location. However, if you do object, please advise Continental Resources and/or
+the North Dakota Industrial Commission within thirty (30) days of the date of this letter,
+
+According to our investigation of ownership of surface landowners within the area of review, it
+appears that City of Williston owns the following tracts of land: 154-101 SEC 31: Lot 5 EX deeded
+parts.
+
+These tracts of land are considered to be within the area of review, which is within a “ mile radius of
+the proposed Atlanta #1 SWD well.
+
+Sincerely,
+
+Deon len,
+
+Don Kennedy
+Sr. Production Engineer
+
+CC: North Dakota Industrial Commission
+
+P.O. Box 268870 + 20 N, Robinson + Oklahoma City, OK 73126
+Voice (405) 234-9000 « Fax (405) 234-9253
+
+WELL LOCATION PLAT
+CONTINENTAL RESOURCES INC.
+ATLANTA SITE PAD WATER RETENTION VOLUME
+SECTION 6, T153N, R101W
+WILLIAMS COUNTY, NORTH DAKOTA
+
+WELL PAD
+
+LOW POINT 1940.3’
+
+WITH AN OVER TOPPING ELEVATION OF 1940.3 FEET
+RETENTION OF 271,160 GALLONS
+
+| CERTIFY THAT THIS PLAT CORRECTLY REPRESENTS PERSON AUTHORIZING SURVEY;
+WORK PERFORMED BY ME OR UNDER MY RESPONSIBLE CHAD NEWBY
+aN RUE AND CORRECT TO THE BEST OF
+; EXPLANATION AREA: NAD83(CORS96)
+
+[¢-20-/2_ BASIS OF BEARING: TRUE NORTH
+
+BROSZ ENGINEERING INC:
+BOX 357
+DATE STAKED: 11-20-2012 BOWMAN, N.D. 58623
+PHONE: 701-523-3340
+~~ BASIS. OF VERTICAL DATUM: FAX: 701-523-5243
+
+H Dato)“ NAVD 1988 GEOID 09 PROJECT NO. 19-10
+
+
+North Dakota Hub Explorer
+
+Atlanta #1SWD & Surface Hub Explorer
+atari Ys _| North Dakota Hub Exp
+
+—, — mt
+al
+
+Williams County
+
+JBE
+
+Q
+
+?
+
+155' Erosion Wattles
+
+ee
+3g0’ - 36" RCP Culve N -
+
+e
+#3
+
+DESIGNED BY:
+DRAWN BY:
+DATE PRINTED: 3/9/12
+
+REVISION
+
+WELL HEAD FOOTAGES (APPROX.) —_— — — _
+
+#1 - 495' FNL & 500° FWL
+#2 - 495' FNL & 545' FWL
+#3 - 495' FNL & 590° FWL
+#4 - 495' FNL & 635' FWL
+- 495' FNL & 835' FWL
+
+#8 -
+
+#9 - 495' FNL & 1260' FWL
+#10 - 495' FNL & 1305 FWL
+#11 - 495' FNL & 1350’ FWL
+#12 - 495' FNL & 1395" FWL
+#13 - 495' FNL & 1440’ FWL
+#14 - 495' FNL & 1485’ FWL
+
+194Q.3" OVERTOPPING
+
+RETENTION AREA OF 271,160 GALLONS 4
+
+Atlanta Site
+N12B10
+
+SHEET DESCRIPTION: Site Layout
+
+PROJECT NAME:
+PROJECT NO.:
+
+Bowman, ND 58623
+
+rOoszZz
+
+109 S. Main, Box 357
+ENGINEFRING, INC
+
+RCHITECTURE ENGINEERING SURVEYING
+
+e
+
+
+D
+
+NO. REVISION
+| di as
+al
+eee ee tee ie
+To [noore [Pretumary ee |
+
+OIL SALES
+
+800’ not to scale
+
+152’
+
+175”
+
+WATER TANK
+
+42°DIA X 20° H
+TYP 4 PLCS
+,
+
+SEPARATOR
+30"DIA X 10°H
+TYP 4 PLCS
+VERTICAL
+HEAT TREATER
+6'DIA X 20'H
+TYP 4 PLCS
+HORIZONTAL
+3—PHASE
+HEAT TREA’
+
+TER
+6'DIA X 20’ LE
+TYP 2 PLCS
+
+HORIZONTAL FWKO
+SEPARATOR B'DIA X 20° LG
+4'DIA X 10°H
+
+ATLANTA BATTERY
+SITE PLAN
+
+Continental
+RESOURCES WELL FLOWBACK STANDARDS
+
+PAD PERIMETER
+
+BUILDING
+
+SEPARATOR
+3O"DIA X 10°H
+
+DWG NO
+
+SCALE: PLOT SCALE:
+
+AFE: LOCATION:
+Pee eit age ks
+
+DWG. NO: REV.
+ATLANTA BATTERY.DWG
+
+el
+
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+
+OIL AND GAS DIVISION
+
+600 EAST BOULEVARD DEPT 405 WEE,
+BISMARCK, ND 58505-0840
+
+SFN 5749 (03-2004)
+
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+
+Notice of Intent Approximate Start Date
+January 15, 2013
+
+L] Report of Work Done Date Work Completed
+
+CJ Notice of Intent to Begin a Workover Project that may Qualify for a
+Tax Exemption Pursuant to NDCC Section 57-51.1-03.
+
+Approximate Start Date
+Well Name and Number
+Atlanta #1 SWD
+
+Drilling Prognosis Spill Report
+
+Redrilling or Repair Shooting
+
+Casing or Liner Acidizing
+
+Plug Well Fracture Treatment
+
+Supplemental History Change Production Method
+
+Temporarily Abandon Reclamation
+
+BIE) Eel ta
+
+Other Complete as SWD in Dakota Formation
+
+24-HOUR PRODUCTION RATE
+
+Footages Qtr-Qtr |Section | Township Range
+260 F NL 432 F WL| NWNW| 6 153N | 101 W
+
+Gas MCF |Gas MCF
+
+Field Pool County
+Dakota Williams
+
+Name of Contractor(s)
+
+DETAILS OF WORK
+Continental Resources proposes the following operations and will contact NDIC Field Inspector at least 24 hrs prior
+to beginning work: 1. Drill the Atlanta #1 SWD at 260' FNL and 432' FWL of Section 6-153N-101W in Williams County,
+ND; 2. Construct SWD facility; 3. Perforate the Dakota formaiton within the approximate interval 4927’ - 5900’; 4.
+Acidize the Dakota; 5. RIH with Baker R3 DG injection packer and set 50" above top perforation; 6. TIH with 4 1/2
+11.6# J-55 internally coated tbg and land in packer; 7. Nipple up wellhead and perform MIT witnessed by NDIC; and 8.
+Start injection.
+
+Company Telephone Number
+
+Continental Resources, Inc.
+
+P.O. Box 268870
+
+City aed Zip Code
+
+Oklahoma City 73126
+Printed Name
+
+Title Date 7, Jol.
+Regulatory Compliance Supervisor September 29=2044
+
+FOR STATE USE ONLY
+
+PZ I-22
+Yee ee |
+Title
+UNDERGROUND INJECTION
+UPERVISOR
+
+>
+a
+Q
+=
+@
+2)
+a
+
+
+Terry L. Olson
+November 21, 2012
+Page 2
+
+Confidential status
+
+Your request for confidential status of all information furnished to the Director, or his
+representatives, is hereby granted. Such information, except production runs, shall remain confidential
+for six months commencing on the date the well is spud.
+
+Confidential status notwithstanding, the Director and his representatives shall have access to all
+well records wherever located. Your company personnel, or any person performing work for your
+company shall permit the Director and his representatives to come upon any lease, property, well, or
+drilling rig operated or controlled by them, complying with all safety rules, and to inspect the records
+and operation of such wells and to have access at all times to any and all records of wells. The
+Commission's field personnel periodically inspect producing and drilling wells. Any information
+regarding such wells shall be made available to them at any time upon request. The information so
+obtained by the field personnel shall be maintained in strict confidence and shall be available only to the
+Commission and its staff.
+
+Surface casing cement
+
+Tail cement utilized on surface casing must have a minimum compressive strength of 500 psi
+within 12 hours, and tail cement utilized on production casing must have a minimum compressive
+strength of 500 psi before drilling the plug or initiating tests.
+
+Logs
+
+NDAC Section 43-02-03-31 requires the running of (1) a suite of open hole logs from which formation tops and
+porosity zones can be determined, (2) a Gamma Ray Log run from total depth to ground level elevation of the well bore, and
+(3) a log from which the presence and quality of cement can be determined (Standard CBL or Ultrasonic cement evaluation
+log) in every well in which production or intermediate casing has been set, this log must be run prior to completing the well.
+All logs run must be submitted free of charge, as one digital TIFF (tagged image file format) copy and one digital LAS (log
+ASCH) formatted copy. Digital logs may be submitted on a standard CD, DVD, or attached to an email sent to
+digitallogs@nd.gov ‘Thank you for your cooperation.
+
+Sincerely,
+
+Stephen Fried
+UIC Supervisor
+
+Oil and Gas Division
+
+Lynn D. Helms - Director Bruce E. Hicks - Assistant Director
+Department of Mineral Resources
+Lynn D. Helms - Director
+
+North Dakota Industrial Commission
+
+www.oilgas.nd.gov
+
+November 21, 2012
+
+Terry L. Olson
+
+Regulatory Compliance Specialist
+CONTINENTAL RESOURCES, INC.
+P.O. Box 268870
+
+Oklahoma City, OK 73126
+RE: VERTICAL WELL
+ATLANTA #1SWD
+NWNVW Section 6-153N-101W
+Williams County
+Well File # 90258
+Dear Terry :
+
+Pursuant to Commission Order No. 21271, approval to drill the above captioned well is hereby given.
+
+PERMIT STIPULATIONS: This well is located on a Well Head Protection Area: Onsite inspection required
+(contact NDIC Field Inspector for site specific stipulations). To include but not limited to: Closed Mud System,
+no drilling pit, and impermeable liner is required on the entire location and a string of casing must be placed in
+the rat and mouse hole and cemented to ground level. CONTINENTAL RESOURCES must contact NDIC
+Field Inspector John Axtman at 701-770-2564 prior to location construction.
+
+Drilling pit
+
+NDAC 43-02-03-19.4 states that “a pit may be utilized to bury drill cuttings and solids generated during well
+drilling and completion operations, providing the pit can be constructed, used and reclaimed in a manner that will
+prevent pollution of the land surface and freshwaters. Reserve and circulation of mud system through earthen pits
+are prohibited. All pits shall be inspected by an authorized representative of the director prior to lining and use.
+Drill cuttings and solids must be stabilized in a manner approved by the director prior to placement in a cuttings
+
+pit.”
+
+Permit Fee & Notification
+
+Payment was received in the amount of $100 via credit card. It is requested that notification be
+given immediately upon the spudding of the well. This information should be relayed to the Oil & Gas
+Division, Bismarck, via telephone. The following information must be included: Well name, legal
+location, permit number, drilling contractor, company representative, date and time of spudding. Office
+hours are 8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 5:00 p.m. Central Time. Our telephone number is
+(701) 328-8020, leave a message if after hours or on the weekend.
+
+600 E Boulevard Ave - Dept 405, Bismarck, North Dakota 58505-0840 Phone (701)328-8020 Fax (701)328-8022
+
+WELL LOCATION PLAT REVISED 118-12
+
+CONTINENTAL RESOURCES INC.
+ATLANTA NO. 1 SWOD
+SECTION 6, TI53N, R101W
+WILLIAMS COUNTY, NORTH DAKOTA
+260° FNL & 432’ FWL
+
+S 89° 51' 27” E 2566.16"
+STONE So 6 SO —— ~~
+439'4260' ATLANTA NO, 1 SWD
+ELEVATION = 1967.9'
+LAT. = 48° 06" 35.990" | |
+i
+
+LONG. = 103° 43° 54.570"
+
+= ee oe
+ne
+
+00° 02’ 08" W 2454.67’
+
+BOLT
+
+ae
+
+l
+SCALE
+i” = 1000' l |
+: . I
+| !
+| CERTIFY THAT THIS PLAT CORRECTLY REPRESENTS PERSON AUTHORIZING SURVEY;
+WORK PERFORMED BY ME OR UNDER MY RESPONSIBLE CHAD NEWBY
+
+TRUE AND CORRECT TO THE BEST OF
+ayy EXPLANATION AREA: NAD83(CORS96)
+
+BASIS OF BEARING: TRUE NORTH
+
+BROSZ ENGINEERING INC.
+BOX 357
+BOWMAN, ND. 58623
+PHONE: 701-523-3340
+FAX: 701-523-5243
+
+PROJECT NO, 12-10
+
+
+Page 1 of 1
+
+Fried, Stephen J.
+
+From: Robert Sandbo [Robert.Sandbo@clir.com]
+
+Sent: Wednesday, November 14, 2012 11:38 AM
+To: Fried, Stephen J.
+
+Subject: Atlanta #1 SWD Information
+Attachments: Atlanta #1 SWD Site Plan.pdf, Atlanta #1 SWD Requested NDIC Info. pdf
+Stephen,
+
+Attached, | believe, is everything that you requested regarding additional information needed for the
+Atlanta #1 SWD proposed well. Please let me know if you need anything else.
+
+In addition, all cuttings from the well will be containerized and hauled to indian Hills Disposal instead of
+using a pit.
+
+Thanks again for all your help,
+
+Bob Sandbo
+
+Regulatory Compliance Supervisor
+Continental Resources, Inc.
+
+PO Box 268870
+
+Oklahoma City, OK 73126
+
+Phone 405-234-9020
+
+Fax 405-234-9562
+
+Continental
+
+NOTICE: This message contains confidential information and is intended for the individual named. if you are not
+the named addressee, you should not disseminate, distribute or copy this e-mail. Please notify the sender
+immediately by reply e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-
+mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted,
+lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any
+errors or omissions in the contents of this message which arise as a result of e-mail transmission.
+
+11/14/2012
+
+APPLICATION FOR PERMIT TO DRILL - FORM 1
+
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+
+600 EAST BOULEVARD DEPT 405
+
+BISMARCK, ND 58505-0840
+
+SFN 4615 (03-2006)
+
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+
+Type of Work Type of Well Approximate Date Work Will Start Confidential Status
+New Location Salt Water Disposal 1/ 15 / 2013 Yes
+
+Operator Telephone Number
+
+CONTINENTAL RESOURCES, INC. (405) 234-9000
+
+City State Zip Code
+P.O. Box 268870 Oklahoma City OK 73126
+
+Name of Surface Owner or Tenant
+Continental Resources, Inc.
+
+P.O. Box 268870 Oklahoma City OK 73126
+
+Notice has been provided to the owner of any This well is not located within five hundred
+WELL INFORMATION
+
+permanently occupied dwelling within 1,320 feet. feet of an occupied dwelling.
+ATLANTA #1 SWD
+260 F NL 432 F WL NWNW 6 153 N 101 W | Williams
+me en eee
+Proposed Bottom Hole Location Qtr-Qtr Section
+an re a ee
+Latitude of Well Head Longitude of Well Head Description of (Subject to NDIC Approval
+48° 06' 35.99" -103° 43' 54.57" | NAD83 Sec 6 T153N R101W
+
+Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
+1968 Feet Above S.L. Feet
+
+Objective Horizons Pierre Shale Top
+
+Dakota 1869
+Proposed Weight Cement Volume |NOTE: Surface hole must be drilled with fresh water
+Surface Casing 9 - 5/8 "| 36 Lb/Ft.| 1970 Feet 743 Sacks |and surface casing must be cemented back to surface.
+Proposed Longstring Total Depth Top Dakota Sand
+Longstring Casing |7 - " 26 Lb/Ft. | 6100 Feet MD 6100 Feet TVD 385 Sacks 1970 Feet 4927 Feet
+Base Last Charles Salt (If Applicable) |Estimated Total Depth (feet) Drilling Mud Type (Vertical Hole - Below Surface Casing)
+
+Feet 6100 Feet MD 6100 FeetTvp | Invert
+
+Proposed Logs
+CBL/GR from deepest depth obtainable to ground surface
+
+Comments
+
+Proposed FW casing: 13 3/8" 48#, 0-500’, 189 sks cmt.
+
+| hereby swear or affirm that the information provided is true, complete and correct as determined from all available records. Date 9/ 7 / 2012
+Printed Name Title
+Terry L. Olson Regulatory Compliance Specialist
+
+FOR STATE USE ONLY FOR STATE USE ONLY
+
+Pool Permit Type Title
+DAKOTA SALT WATER DISPOSAL UIC Supervisor
+
+REQUIRED ATTACHMENTS: Certified surveyors plat, estimated geological tops, proposed mud/cementing plans, $100 fee.
+
+DATE PRINTED: 5/16/12
+
+DESIGNED BY:
+
+DRAWN BY:
+
+——
+—_——__ __
+
+Z So St tsa oo
+i -— “33 7 Sette 2 Ry RRR ES eo
+
+REVISION
+
+WELL HEAD FOOTAGES (APPROX.) rath
+y; Rats
+- 495’ FNL & 500’ FWL ft j ; eee e x
+
+—
+—
+—_—_— —_——
+
+aN SNAG LS GIGS acts,
+
+#8 - 495' FNL
+
+#9 - 495' FNL & 1260' FWL
+#10 - 495° FNL & 1305' FWL
+#11 - 495' FNL & 1350° FWL
+#12 - 495° FNL & 1395' FWL
+#13 - 495' FNL & 1440° FWL
+#14 - 495° FNL & 1485' FWL
+
+N12B10
+
+SHEET DESCRIPTION: Production Facility Layout
+PROJECT NAME: Atlanta Site
+
+PROJECT NO.:
+
+~
+—
+a
+~~
+—_—_—
+—
+—_——.
+
+109 S. Main, Box 357
+
+Bowman, NO 58623
+
+PH; 701.523.3340
+ENGINEERING, INC,
+
+NOTE: THE 500’ RADIUS SHOWN ON THIS
+DRAWING ARE DRAWN FROM THE
+NEAREST BUILDING CORNER.
+
+ARCHITECTURE ENGINEERING SURVEYING
+
+Vv
+
+B
+
+TN 2/2012
+
+DRILLING PROGNOSIS
+
+Well Name: Atlanta 1-6H SHL: 260° FNL & 432' FWL
+Rig: Ensign 162 Sec. 6 - 153N- 101W
+Prospect: Williston Willams  , ND
+Target: Dakota
+Spacing:
+{] Pre-Staked
+[7] Stakes
+
+Rig Grade Elevation: 4945'
+KB: 24°
+RKB: 1969°
+
+Piere Shae ———S—~—CiTOO | «ees |
+Greenhorn
+Neweasie «| 3.000 | 5020 [Sd
+finyan kere 8.08 | gas | CSCS*d
+a
+a
+
+Offset Well: Lippert 1-12H
+WAIVE OPEN HOLE LOGGING W'TH 0 Operator: Brigham Oil and Gas LP
+
+Location: Sec. 4 - 153N- 102W
+Wiliams , ND
+AP!: 33105018480000
+
+(0 must auN OPEN HOLE LOGS
+
+*NP = Not Picked *NA = Not Applicable (Absenf}
+
+PRELIMINARY DRILLING PROGRAM VAZ0V2
+
+Lease and Well No. Atlanta SWD
+MUD PROGRAM
+Depth Type Weight Remarks
+O' - 1970 ' Native Freshwater 8.4-8.8 Add Soap Sticks for Mud Rings
+1970'- TDs Invert _ _9.3-9.5 35-50 sec, 10-30 cc's
+
+Casing ERW/ Critical
+Feet Diameter Weight, Grade, Connection eqns Inspection
+
+13-3/8 13-3/8", 48 #, H-40, STC ERW {601 & Daf & Drift
+
+a a a =o
+214 "| __ 1970 te7o' [95/8 * 9-5/8", 36 #, J-55, STC BCI & Drift
+
+“teat shee shoe, shoe joint & float collar. Centralize bottom joint then 5 more every other, 1 at econeutor __
+
+ee RET & ackpa
+
+Notes: Pipe to end up in hole from top to bottom as shown.
+
+. CEMENT PROGRAM
+
+String | SHOE/DV Stage Cement Cement Cement System Cement Cement
+Type Depth Lead/Tail Bottom Top oubks Yield Weight
+
+| bead | 360 TO F111 [asi65 PoxiCiass "0", 3% CaCl, 12% gel
+FW | 600 | Tail | 500 Class "C", 2% CaCl
+(Basis: Guage hole + 55% excess, tail 30% of jength, lead to surface,
+tssq —} a —
+_ 437 _|38/65 PoziGlass "C", 3% CaCl, 12% gel 288 fia
+Sut 1970 4970‘ aT 380 306 _|ciass "c", 2% CaCl 14.3
+(Basis: Guage hole + 55% excess, tail 30% of length, lead to surface.)
+
+a A ee es
+int 6100 5600 1,970 Se a
+Pail 6100 | 5600 61.4 [cass *G", 3% KCI, 36% Slica
+
+{Basis: Gauge hole + 30% excess, Fail to 500 ft above iop of Chartes Salt, Lead to Surface)
+
+Asoses SY APE oO
+
+x
+2
+
+DATE PRINTED: 5/16/12
+
+DESIGNED BY:
+DRAWN BY:
+
+—_e_oo
+
+———— —
+1000 1000 bi OL
+
+Uy»
+je ale be tS so RRR KE FOS SS hd \E
+oe OO calli KAKA KY PSR AAR KR ER RK _-— ,
+ras Ko yo ste Ble sl Je te
+"site - a TOK ARE KER KKK KK KK Kk /
+——-— oe EE ;
+
+RANTA 410°
+rl
+CO!
+
+REVISION
+
+ji
+AGH
+-si. ln
+ws
+V
+
+4 SWD
+
+o
+
+3
+
+Cac: i a; / aN wR Ny
+eT, cera ‘“N \ = e,
+
+-_ “XN KF ,
+nic I Seen ~~ A ae Sa —eeS
+eee LIGHTING \_ _—— a iY
+Drilling Pad Yo0'x 330» peo J
+WELL HEAD FOOTAGES (APPROX.) | A ev 183 Rates
+
+#1 - 495" FNL & 500’ FWL
+#2 - 495' FNL & 545' FWL
+#3 - 495' FNL & 590° FWL
+#4 - 495° FNL & 635° FWL
+#5 - 495' FNL & 835' FWL
+#6 - 495' FNL & 880° FWL
+#7 - 495' FNL & 925’ FWL
+#8 - 495' FNL & 970° FWL
+#9 - 495' FNL & 1260° FWL ‘ ~ . =
+#10 - 495' FNL & 1305' FWL Se ee = =e
+#11 - 495" FNL & 1350 FWL ‘ _— —-60" Nanholg a :
+
+#12 - 495" FNL & 1395' FWL \ _— Area_«inlet
+#13 - 495' FNL & 1440’ FWL ce Typ =
+
+; eg
+* *
+WAX, — —S ig <
+
+i a ne foot. tet
+Jesfestea! de slerlestestestestea! ayy
+s TOK RREKRRK ane KKK RK GT x
+y x ae
+
+a ++ Josfeate FLARE ial
+ey AKT Poestese bontewleafoale tel Bente atehs ; Sox >
+jo IE OE soe SHEARER BREE
+
+SHEET Description: Production Facility Layout
+
+#14 - 495' FNL & 1485" FWL 2
+” Oo
+2 fh
+& A
+qi Zz
+wi we
+= oO
+z z
+e &
+
+REGISTERED
+LAND
+URVEYOR
+
+_——
+—
+_——
+—
+_—_—
+—.
+
+109 S. Main, Box 357
+
+Bowman, ND 58623
+
+PH: 701.523.3340
+ENGINEERING, INC.
+
+NOTE: THE 500' RADIUS SHOWN ON THIS
+DRAWING ARE DRAWN FROM THE
+NEAREST BUILDING CORNER.
+
+ARCHITECTURE ENGINEERING SURVEYING
+
+Vv
+
+B
+
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+
+OIL AND GAS DIVISION Well File No. -
+600 EAST BOULEVARD DEPT 405 WA bx
+BISMARCK, ND 58505-0840
+
+SFN 5749 (09-2006)
+
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+
+Approximate Start Date
+[] Report of Work Done Date Work Completed
+
+[] Notice of Intent to Begin a Workover Project that may Qualify
+for a Tax Exemption Pursuant to NDCC Section 57-51, 1-03. :
+Temporarily Abandon
+
+Approximate Start Date
+¥| Other Open Hole Log Waiver
+
+Well Name and Number
+
+Atlanta #1 SWD
+
+Footages QtrQtr [Section [Township
+260° Nu 492 Wil NWNW| 6) | te3N | 101 W
+
+Field Pool County
+
+Banks Bakken iis
+
+Name of Contractor(s)
+
+DETAILS OF WORK
+Requested variance to not run openhole logs. GR/CBL/CCL will be run from deepest point obtainable to base of
+surface casing.
+
+[| Notice of Intent Drilling Prognosis Spill Report
+
+Redrilling or Repair Shooting
+
+Casing or Liner Acidizing
+
+Plug Well Fracture Treatment
+
+Change Production Method
+
+Supplemental History
+
+Reclamation
+
+St ENE th Gel
+
+31 i a Oo
+
+24-HOUR PRODUCTION RATE
+
+After
+Oil Bbls
+
+Offset logs used will be the sie ld and Gas, LP, Lippert 1-12, Sec 1-153N-102W, Williams County, ND.
+Ai ae heel ig Laide nee args ide ee 2
+
+The Gamma Ray Log will be run all the way to surface and all mud logs will be submitted as one digital tiff formatted
+file and one digital LAS formatted file.
+
+Company Telephone Number
+Continental Resources, Inc. 405-234-9000 FOR STATE USE ONLY
+
+P.O. Box 268870
+M2 /- Be/2
+
+City Zip Code
+Oklahoma Ci 73126
+
+f Printed Name
+iy tO. (Mu ~——_|Terry L. Olson
+Title ia Date
+Regulatory Compliance Specialist September 7, 2012
+Email Address
+Terry.Olson@clr.com
+
+Title”
+
+Richard A. Suggs
+

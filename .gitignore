@@ -13,8 +13,9 @@ Pipfile
 Pipfile.lock
 **/__pycache__/*
 */.config*
-Lab_5/.env
 *.npy
 */.ipynb_checkpoints/*
 *.swp
 */node_modules/*
+Lab_6/raw_pdf_data/*
+*.env
