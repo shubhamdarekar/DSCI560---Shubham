@@ -65,6 +65,14 @@ async function loadMap() {
             popupElement.style.display = 'none';
         }
     });
+
+
+    map.on('pointermove', event => {
+        const feature = map.forEachFeatureAtPixel(event.pixel, f => f);
+        if (!feature) {
+            popupElement.style.display = 'none';
+        }
+    });
 }
 
 loadMap();

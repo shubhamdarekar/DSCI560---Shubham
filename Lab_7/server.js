@@ -2,15 +2,16 @@
 const express = require('express');
 const mysql = require('mysql2');
 const cors = require('cors');
+require('dotenv').config();
 
 const app = express();
 app.use(cors());
 
 const db = mysql.createConnection({
-    host: "dsci560mysqlserver.mysql.database.azure.com",
-    user: "superlogin",
-    password: "GroupForResume@123",
-    database: "oil_wells"
+    host: process.env.DB_HOST,
+    user: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
+    database: process.env.DB_NAME
 });
 
 db.connect(err => {
@@ -33,3 +34,4 @@ app.get('/wells', (req, res) => {
 });
 
 app.listen(3000, () => console.log('Server running on http://localhost:3000'));
+
