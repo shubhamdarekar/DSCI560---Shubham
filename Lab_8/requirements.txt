@@ -1,0 +1,12 @@
+requests
+selenium 
+beautifulsoup4 
+pymysql 
+praw 
+nltk 
+textblob 
+scikit-learn 
+pytesseract
+mysql-connector-python 
+matplotlib
+gensim
